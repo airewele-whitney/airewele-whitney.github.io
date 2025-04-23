@@ -9,6 +9,7 @@ about:
       href: https://www.linkedin.com/in/whitneyairewele/
       target: _blank
     - text: Email
+      icon: envelope
       href: mailo:airewele.whitney@gmail.com
 ---
 
