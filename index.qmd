@@ -7,8 +7,11 @@ about:
     - icon: linkedin
       text: Linkedin
       href: https://www.linkedin.com/in/whitneyairewele/
+      target: _blank
+    - text: Email
+      href: mailo:airewele.whitney@gmail.com
 ---
 
-This is a Quarto website.
+Hi! I'm Whitney. Welcome to my personal website where I share my projects, interests an professional journey. Feel free to explore and connect!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Click the link to learn more about me <https://quarto.org/docs/websites>.
