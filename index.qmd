@@ -1,5 +1,12 @@
 ---
 title: "Whitney Airewele"
+image:  images/whitney.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/whitneyairewele/
 ---
 
 This is a Quarto website.
