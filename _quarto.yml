@@ -5,11 +5,16 @@ project:
 website:
   title: "Whitney Airewele"
   navbar:
+    title: false
+    logo: images/logo2.png
     left:
       - href: index.qmd
         text: Home
       - about.qmd
       - hello.qmd
+page-footer:
+  background: light
+  right: © 2025 Whitney Airewele. All rights reserved
 
 format:
   html:
