@@ -16,13 +16,18 @@ page-footer:
   background: light
   right: © 2025 Whitney Airewele. All rights reserved
 
+
 format:
   html:
-    theme:
-      - cosmo
+    theme: 
+      - lux
       - brand
-    css: styles.css
+      - styles.scss
     toc: true
+
+    
+    
+
 
 
 
