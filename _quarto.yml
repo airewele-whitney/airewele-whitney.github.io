@@ -6,7 +6,7 @@ website:
   title: "Whitney Airewele"
   navbar:
     title: false
-    logo: images/logo2.png
+    logo: images/logo.png
     left:
       - href: index.qmd
         text: Home
@@ -23,7 +23,7 @@ format:
       - lux
       - brand
       - styles.scss
-    mainfont: Fraunces
+    mainfont: Urbanist
     toc: true
     page-layout: full
 
