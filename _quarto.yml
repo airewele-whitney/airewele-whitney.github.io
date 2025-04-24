@@ -23,7 +23,9 @@ format:
       - lux
       - brand
       - styles.scss
+    mainfont: Fraunces
     toc: true
+    page-layout: full
 
     
     

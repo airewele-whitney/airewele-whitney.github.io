@@ -1,4 +1,14 @@
 /*-- scss:defaults --*/
-$navbar-bg: #2c698d;    // Deep blue for navbar background
+//import google fonts
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Noto+Serif+Display:ital,wght@0,100..900;1,100..900&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+
+$navbar-bg: #3f2739;    // Deep blue for navbar background
 $navbar-fg: #ffffff;    // White for navbar text
-$body-bg: #f9f9f9;      // Light gray for body background
+$body-bg: #eee5e9;      // Light gray for body background
+
+
+  .title {
+    color: #3f2739;
+  }
+
+  
