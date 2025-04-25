@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Whitney Airewele"
+  title: "Welcome"
   navbar:
     title: false
     logo: images/logo.png
@@ -25,7 +25,9 @@ format:
       - styles.scss
     mainfont: Urbanist
     toc: true
-    page-layout: full
+    toc-title: "A LITTLE ABOUT ME"
+    toc-location: right
+    toc-depth: 1
 
     
     

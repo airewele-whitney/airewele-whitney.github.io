@@ -1,5 +1,5 @@
 ---
-title: "Whitney Airewele"
+title: "Welcome"
 image:  images/whitney.jpg
 about:
   template: jolla
@@ -12,7 +12,12 @@ about:
       icon: envelope
       href: mailo:airewele.whitney@gmail.com
 ---
+ 
+## Hi! I'm Whitney. Welcome to my personal website where I share my projects, interests and professional journey. Feel free to explore and connect!{{< fa face-smile >}}
 
-Hi! I'm Whitney. Welcome to my personal website where I share my projects, interests an professional journey. Feel free to explore and connect!
 
-Click the link to learn more about me <https://quarto.org/docs/websites>.
+::: {.grid}
+::: {.g-col-6}
+#### Short Bio
+I’m a final-year student of international business with French at Dublin City University, with a specialisation in data analytics. I’m passionate about turning data into clear, actionable insights that support better decision-making across any area of business. With my background in data, I enjoy using tools like Power BI and Excel to explore information and present it in meaningful visualisations. This site is a reflection of my skills, interests, hobbies, and ongoing journey as I pursue opportunities to continuously learn and apply my skills. 
+:::

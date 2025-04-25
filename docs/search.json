@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Whitney Airewele",
+    "title": "Welcome",
     "section": "",
-    "text": "Hi! I’m Whitney. Welcome to my personal website where I share my projects, interests an professional journey. Feel free to explore and connect!\nClick the link to learn more about me https://quarto.org/docs/websites."
+    "text": "I’m a final-year student of international business with French at Dublin City University, with a specialisation in data analytics. I’m passionate about turning data into clear, actionable insights that support better decision-making across any area of business. With my background in data, I enjoy using tools like Power BI and Excel to explore information and present it in meaningful visualisations. This site is a reflection of my skills, interests, hobbies, and ongoing journey as I pursue opportunities to continuously learn and apply my skills."
   },
   {
     "objectID": "about.html",
@@ -19,5 +19,12 @@
     "title": "Whitney Airewele",
     "section": "",
     "text": "print('hello world')\n\nhello world\n\n\n\nimport numpy as np\nimport matplotlib.pyplot as plt\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()"
+  },
+  {
+    "objectID": "index.html#hi-im-whitney.-welcome-to-my-personal-website-where-i-share-my-projects-interests-and-professional-journey.-feel-free-to-explore-and-connect",
+    "href": "index.html#hi-im-whitney.-welcome-to-my-personal-website-where-i-share-my-projects-interests-and-professional-journey.-feel-free-to-explore-and-connect",
+    "title": "Welcome",
+    "section": "",
+    "text": "I’m a final-year student of international business with French at Dublin City University, with a specialisation in data analytics. I’m passionate about turning data into clear, actionable insights that support better decision-making across any area of business. With my background in data, I enjoy using tools like Power BI and Excel to explore information and present it in meaningful visualisations. This site is a reflection of my skills, interests, hobbies, and ongoing journey as I pursue opportunities to continuously learn and apply my skills."
   }
 ]
