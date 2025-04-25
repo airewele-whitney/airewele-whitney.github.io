@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "hello.html",
+    "href": "hello.html",
     "title": "Welcome",
     "section": "",
-    "text": "I’m a final-year student of international business with French at Dublin City University, with a specialisation in data analytics. I’m passionate about turning data into clear, actionable insights that support better decision-making across any area of business. With my background in data, I enjoy using tools like Power BI and Excel to explore information and present it in meaningful visualisations. This site is a reflection of my skills, interests, hobbies, and ongoing journey as I pursue opportunities to continuously learn and apply my skills.\n\n\n\n\nCommunicating Data Effectively in Data Presentation Skills - Kubicle, 2025\nTelling Stories with Data in Data Presentation Skills - Kubicle, 2025\nPresenting Your Data in Data Presentation Skills - Kubicle, 2025\nKeeping Your Information Safe in Data Security - Kubicle, 2025\nHandling Data Securely and Responsibly in Data Security - Kubicle, 2025\n\n\nView all certifications"
+    "text": "print('hello world')\n\nhello world\n\n\n\nimport numpy as np\nimport matplotlib.pyplot as plt\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()"
   },
   {
     "objectID": "about.html",
@@ -14,17 +14,17 @@
     "text": "About this site"
   },
   {
-    "objectID": "hello.html",
-    "href": "hello.html",
-    "title": "Whitney Airewele",
+    "objectID": "Certifications.html",
+    "href": "Certifications.html",
+    "title": "Certifications",
     "section": "",
-    "text": "print('hello world')\n\nhello world\n\n\n\nimport numpy as np\nimport matplotlib.pyplot as plt\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()"
+    "text": "My Certifications\nHere’s a list of my professional certifications and credentials:\n\nCommunicating Data Effectively in Data Presentation Skills - Kubicle, 2025\nTelling Stories with Data in Data Presentation Skills - Kubicle, 2025\nPresenting Your Data in Data Presentation Skills - Kubicle, 2025\nKeeping Your Information Safe in Data Security - Kubicle, 2025\nHandling Data Securely and Responsibly in Data Security - Kubicle, 2025"
   },
   {
-    "objectID": "index.html#hi-im-whitney.-welcome-to-my-personal-website-where-i-share-my-projects-interests-and-professional-journey.-feel-free-to-explore-and-connect",
-    "href": "index.html#hi-im-whitney.-welcome-to-my-personal-website-where-i-share-my-projects-interests-and-professional-journey.-feel-free-to-explore-and-connect",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "I’m a final-year student of international business with French at Dublin City University, with a specialisation in data analytics. I’m passionate about turning data into clear, actionable insights that support better decision-making across any area of business. With my background in data, I enjoy using tools like Power BI and Excel to explore information and present it in meaningful visualisations. This site is a reflection of my skills, interests, hobbies, and ongoing journey as I pursue opportunities to continuously learn and apply my skills.\n\n\n\n\nCommunicating Data Effectively in Data Presentation Skills - Kubicle, 2025\nTelling Stories with Data in Data Presentation Skills - Kubicle, 2025\nPresenting Your Data in Data Presentation Skills - Kubicle, 2025\nKeeping Your Information Safe in Data Security - Kubicle, 2025\nHandling Data Securely and Responsibly in Data Security - Kubicle, 2025\n\n\nView all certifications"
+    "text": "Hi! I’m Whitney. Welcome to my personal website where I share my projects, interests and professional journey. Feel free to explore and connect! \n\n\nShort Bio\nI’m a final-year student of international business with French at Dublin City University, with a specialisation in data analytics. I’m passionate about turning data into clear, actionable insights that support better decision-making across any area of business. With my background in data, I enjoy using tools like Power BI and Excel to explore information and present it in meaningful visualisations. This site is a reflection of my skills, interests, hobbies, and ongoing journey as I pursue opportunities to continuously learn and apply my skills.\n\nLearn more about me\n\n\n\nCertifications\n\nClick below to look at some of my certifications. Certifications\n\n\n\nProjects\n\nClick below to look at some of my final year university projects. Projects\n\n\n\nBlog Interests\n\nClick below to look at some blog posts in the media that interest me. Blog"
   }
 ]

@@ -23,14 +23,27 @@ $body-bg: #eee5e9;      // Light gray for body background
     color: #3f2739;
   }
   
-  .center-text {
-    text-align: center;
+  .left-align {
+    text-align: left;
   }
   
   .navbar-brand img { 
     max-height: 40px;
     width: auto;
   }
+
+/* Custom button styling */
+.btn-primary {
+    background-color: #3f2739;  /* Change to your preferred color */
+    border-color: #3f2739;
+    
+    &:hover {
+      background-color: darken(#3f2739, 10%);
+      border-color: darken(#3f2739, 10%);
+    }
+  }
+  
+  
  
 
   

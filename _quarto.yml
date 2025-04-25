@@ -11,6 +11,9 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: Certifications.qmd
+      - href: Projects.qmd
+      - href: Blog.qmd
       - hello.qmd
 page-footer:
   background: light
@@ -24,10 +27,11 @@ format:
       - brand
       - styles.scss
     mainfont: Urbanist
-    toc: true
-    toc-title: "A LITTLE ABOUT ME"
+    toc-title: "On this page"
     toc-location: right
-    toc-depth: 1
+    toc-depth: 1 
+    
+    
 
     
     

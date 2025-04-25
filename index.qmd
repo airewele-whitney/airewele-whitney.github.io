@@ -1,5 +1,9 @@
 ---
 title: "Welcome"
+toc: true
+toc-title: "On this page"
+toc-location: right
+toc-depth: 1 
 image:  images/whitney.jpg
 about:
   template: jolla
@@ -13,23 +17,35 @@ about:
       href: mailo:airewele.whitney@gmail.com
 ---
  
-## Hi! I'm Whitney. Welcome to my personal website where I share my projects, interests and professional journey. Feel free to explore and connect! {{< fa face-smile >}}
+**Hi! I'm Whitney. Welcome to my personal website where I share my projects, interests and professional journey. Feel free to explore and connect! {{< fa face-smile >}}**
 
 
 ::: {.grid}
-::: {.g-col-8}
+
+::: {.g-col-12}
 #### Short Bio
+
 **I’m a final-year student of international business with French at Dublin City University, with a specialisation in data analytics. I’m passionate about turning data into clear, actionable insights that support better decision-making across any area of business. With my background in data, I enjoy using tools like Power BI and Excel to explore information and present it in meaningful visualisations. This site is a reflection of my skills, interests, hobbies, and ongoing journey as I pursue opportunities to continuously learn and apply my skills.**
+
+::: {.text-center.mt-4}
+[Learn more about me](about.qmd){.btn .btn-primary}
+:::
 :::
 
 ::: {.g-col-4 .vh-center .center-text}
-#### Recent Certifications
-- **Communicating Data Effectively in Data Presentation Skills** - Kubicle, 2025
-- **Telling Stories with Data in Data Presentation Skills** - Kubicle, 2025
-- **Presenting Your Data in Data Presentation Skills** - Kubicle, 2025
-- **Keeping Your Information Safe in Data Security** - Kubicle, 2025
-- **Handling Data Securely and Responsibly in Data Security** - Kubicle, 2025
+#### Certifications
+>**Click below to look at some of my certifications.**<br><br>
+[Certifications](Certifications.qmd){.btn .btn-primary}
+:::
 
-::: {.text-center .mt-4}
-[View all certifications](certificates.qmd){.btn .btn-primary}  
+::: {.g-col-4 .vh-center .center-text}
+#### Projects
+>**Click below to look at some of my final year university projects.**<br><br>
+[Projects](Projects.qmd){.btn .btn-primary}
+:::
+
+::: {.g-col-4 .vh-center .center-text}
+#### Blog Interests
+>**Click below to look at some blog posts in the media that interest me.**<br><br>
+[Blog](Blog.qmd.qmd){.btn .btn-primary}
 :::
