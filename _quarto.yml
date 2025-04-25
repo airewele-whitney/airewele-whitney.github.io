@@ -29,7 +29,7 @@ format:
     mainfont: Urbanist
     toc-title: "On this page"
     toc-location: right
-    toc-depth: 1 
+    page-layout: article
     
     
 
