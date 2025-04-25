@@ -13,11 +13,23 @@ about:
       href: mailo:airewele.whitney@gmail.com
 ---
  
-## Hi! I'm Whitney. Welcome to my personal website where I share my projects, interests and professional journey. Feel free to explore and connect!{{< fa face-smile >}}
+## Hi! I'm Whitney. Welcome to my personal website where I share my projects, interests and professional journey. Feel free to explore and connect! {{< fa face-smile >}}
 
 
 ::: {.grid}
-::: {.g-col-6}
+::: {.g-col-8}
 #### Short Bio
-I’m a final-year student of international business with French at Dublin City University, with a specialisation in data analytics. I’m passionate about turning data into clear, actionable insights that support better decision-making across any area of business. With my background in data, I enjoy using tools like Power BI and Excel to explore information and present it in meaningful visualisations. This site is a reflection of my skills, interests, hobbies, and ongoing journey as I pursue opportunities to continuously learn and apply my skills. 
+**I’m a final-year student of international business with French at Dublin City University, with a specialisation in data analytics. I’m passionate about turning data into clear, actionable insights that support better decision-making across any area of business. With my background in data, I enjoy using tools like Power BI and Excel to explore information and present it in meaningful visualisations. This site is a reflection of my skills, interests, hobbies, and ongoing journey as I pursue opportunities to continuously learn and apply my skills.**
+:::
+
+::: {.g-col-4 .vh-center .center-text}
+#### Recent Certifications
+- **Communicating Data Effectively in Data Presentation Skills** - Kubicle, 2025
+- **Telling Stories with Data in Data Presentation Skills** - Kubicle, 2025
+- **Presenting Your Data in Data Presentation Skills** - Kubicle, 2025
+- **Keeping Your Information Safe in Data Security** - Kubicle, 2025
+- **Handling Data Securely and Responsibly in Data Security** - Kubicle, 2025
+
+::: {.text-center .mt-4}
+[View all certifications](certificates.qmd){.btn .btn-primary}  
 :::

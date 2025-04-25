@@ -1,0 +1,13 @@
+---
+title: "Certifications"
+---
+
+# My Certifications
+
+Here's a list of my professional certifications and credentials:
+
+* **Communicating Data Effectively in Data Presentation Skills** - Kubicle, 2025
+* **Telling Stories with Data in Data Presentation Skills** - Kubicle, 2025
+* **Presenting Your Data in Data Presentation Skills** - Kubicle, 2025
+* **Keeping Your Information Safe in Data Security** - Kubicle, 2025
+* **Handling Data Securely and Responsibly in Data Security** - Kubicle, 2025
