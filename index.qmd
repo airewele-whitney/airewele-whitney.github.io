@@ -21,7 +21,7 @@ about:
 
 ::: {.grid}
 
-::: {.g-col-6 .text-left}
+::: {.g-col-12 .text-left}
 #### Short Bio
 
 **I’m a final-year student of international business with French at Dublin City University, with a specialisation in data analytics. I’m passionate about turning data into clear, actionable insights that support better decision-making across any area of business. With my background in data, I enjoy using tools like Power BI and Excel to explore information and present it in meaningful visualisations. This site is a reflection of my skills, interests, hobbies, and ongoing journey as I pursue opportunities to continuously learn and apply my skills.**
@@ -31,13 +31,13 @@ about:
 :::
 :::
 
-::: {.g-col-6 .vh-center .center-text}
+::: {.g-col-4 .vh-center .text-left}
 #### Certifications
 >**Click below to look at some of my certifications.**<br><br>
 [Certifications](Certifications.qmd){.btn .btn-primary}
 :::
 
-::: {.g-col-6 .vh-center .center-text}
+::: {.g-col-4 .vh-center .center-text}
 #### Projects
 >**Click below to look at some of my final year university projects.**<br><br>
 [Projects](Projects.qmd){.btn .btn-primary}
@@ -48,3 +48,12 @@ about:
 >**Click below to look at some blog posts in the media that interest me.**<br><br>
 [Blog](Blog.qmd.qmd){.btn .btn-primary}
 :::
+
+
+
+## Latest [Projects](/Projects.qmdroject)
+
+::: {#recent-project-listing}
+:::
+
+

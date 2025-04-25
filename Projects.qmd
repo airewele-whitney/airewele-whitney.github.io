@@ -1,3 +1,18 @@
 ---
 title: "Projects"
 ---
+## Recent Projects
+
+::: {.grid}
+
+::: {.g-col-4 .card .project-card}
+<img src="/images/projects.avif" alt="Machine Learning Project">
+
+### Machine Learning Reflection
+Reflective report on implementing ML algorithms for Covid-19 fake news classification.
+
+<div class="card-footer">
+<p class="date">April 18, 2025</p>
+<p><a href="projects/ML_reflective_report.pdf" class="btn btn-sm btn-primary">View Project</a></p>
+</div>
+:::

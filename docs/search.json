@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "Hi! I’m Whitney. Welcome to my personal website where I share my projects, interests and professional journey. Feel free to explore and connect! \n\n\nShort Bio\nI’m a final-year student of international business with French at Dublin City University, with a specialisation in data analytics. I’m passionate about turning data into clear, actionable insights that support better decision-making across any area of business. With my background in data, I enjoy using tools like Power BI and Excel to explore information and present it in meaningful visualisations. This site is a reflection of my skills, interests, hobbies, and ongoing journey as I pursue opportunities to continuously learn and apply my skills.\n\nLearn more about me\n\n\n\nCertifications\n\nClick below to look at some of my certifications. Certifications\n\n\n\nProjects\n\nClick below to look at some of my final year university projects. Projects\n\n\n\nBlog Interests\n\nClick below to look at some blog posts in the media that interest me. Blog"
+    "text": "Hi! I’m Whitney. Welcome to my personal website where I share my projects, interests and professional journey. Feel free to explore and connect!"
   },
   {
     "objectID": "about.html#background",
@@ -54,5 +54,26 @@
     "title": "About Me",
     "section": "🌍 Hobbies & Personal Life",
     "text": "🌍 Hobbies & Personal Life\nOutside of work and studies, I enjoy volunteering and have taken part in clean-up initiatives like the Calanques project in France. I also love outdoor adventures, creative projects, and anything that lets me learn something new. Whether I’m embracing my artistic side through art and design, going on walks, doing yoga, or learning a new tool, I’m always looking for ways to grow and keep my wellness levels up.\nCooking and learning new recipes is a newfound hobby of mine. I truly love recreating dishes for others to taste, which is something I realized having to live alone in France."
+  },
+  {
+    "objectID": "index.html#latest-projects",
+    "href": "index.html#latest-projects",
+    "title": "Welcome",
+    "section": "Latest Projects",
+    "text": "Latest Projects"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Reflective report on implementing ML algorithms for Covid-19 fake news classification.\n\n\nApril 18, 2025\n\n\nView Project"
+  },
+  {
+    "objectID": "Projects.html#recent-projects",
+    "href": "Projects.html#recent-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Reflective report on implementing ML algorithms for Covid-19 fake news classification.\n\n\nApril 18, 2025\n\n\nView Project"
   }
 ]
