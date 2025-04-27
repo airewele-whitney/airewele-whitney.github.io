@@ -16,7 +16,7 @@ about:
       href: mailo:airewele.whitney@gmail.com
 ---
  
-**Hi! I'm Whitney. Welcome to my personal website where I share my projects, interests and professional journey. Feel free to explore and connect! {{< fa face-smile >}}**
+**Hi 👋 I'm Whitney. Welcome to my personal website where I share my projects, interests and professional journey. Feel free to explore and connect!**
 
 
 ::: {.grid}
@@ -46,9 +46,9 @@ about:
 
 
 
-## Latest [Projects](/Projects.qmdroject)
+## Latest [Certificates](/Projects.qmdroject)
 
-::: {#recent-project-listing}
+::: {#recent-certificate-listing}
 :::
 
 

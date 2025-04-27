@@ -7,11 +7,10 @@ website:
   navbar:
     title: false
     logo: images/logo.png
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: Certifications.qmd
       - href: Projects.qmd
       - href: Blog.qmd
       - hello.qmd

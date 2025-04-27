@@ -1,7 +1,7 @@
 ---
-title: "Projects"
+title: "Portfolio"
 listing:
-  contents: projects
+  contents: portfolio
   sort: "date desc"
   type: grid
   categories: true
@@ -12,6 +12,5 @@ listing:
   grid-item-border: true
   grid-item-align: left
 ---
-## Recent Projects
 
-These are some of my recent final year academic and projects.
+Here you will find various different projects, cerficates and works of mine.

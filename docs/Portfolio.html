@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>About Me – Welcome</title>
+<title>Portfolio – Welcome</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -67,7 +69,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -87,22 +147,18 @@ ul.task-list li input[type="checkbox"] {
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll me-auto">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" aria-current="page"> 
+    <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About Me</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./Certifications.html"> 
-<span class="menu-text">Certifications</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./Projects.html"> 
-<span class="menu-text">Projects</span></a>
+  <li class="nav-item compact">
+    <a class="nav-link" href="./Projects.qmd"> 
+<span class="menu-text"></span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./Blog.html"> 
@@ -123,15 +179,15 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">About Me</h1>
+<h1 class="title">Portfolio</h1>
 </div>
 
 
@@ -148,27 +204,23 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="background" class="level2 about-section">
-<h2 class="anchored" data-anchor-id="background">🧩 Background</h2>
-<p>As an Irish Nigerian, I’ve always had an interest in diverse cultures, which led to my decision to study international business. This background has shaped my global mindset and grown my appreciation for different perspectives, whether working in international teams or adapting to new environments. My year abroad at Kedge Business School in Marseille, France deepened that perspective even further. That curiosity has continued to grow throughout my academic and professional journey.</p>
-<p>It was during my 2024 summer internship as a Risk and Fund Services Intern that I understood how important data is in shaping business decisions and ensuring regulatory compliance. Working closely with risk teams and using tools like Excel and Power BI, I saw firsthand how data could be transformed into valuable insights that improve oversight. This sparked a determination in me to learn how to code, and is what drew me to study business analytics. I enjoy using my skills to create visualisations and solve problems.</p>
-</section>
-<section id="career-aspirations" class="level2 about-section">
-<h2 class="anchored" data-anchor-id="career-aspirations">🎯 Career Aspirations</h2>
-<p>I’m passionate about using data to uncover meaningful insights that drive better decision-making. My goal is to work in environments where I can apply technical tools like Excel, Power BI, and SQL to improve systems, support strategic thinking, and bring clarity through effective data visualisation. I’m open to opportunities across different areas of business, from finance to operations, as long as I’m solving problems and creating impact.</p>
-</section>
-<section id="interests-values" class="level2 about-section">
-<h2 class="anchored" data-anchor-id="interests-values">🌱 Interests &amp; Values</h2>
-<p>I’m fascinated by innovation and emerging technologies, especially in the AI space. I love finding smarter, more efficient ways to work, whether that’s through improving a workflow or learning a new tool. I’m also a naturally curious person who enjoys continuous learning, collaboration, and challenging myself through new experiences.</p>
-</section>
-<section id="hobbies-personal-life" class="level2 about-section">
-<h2 class="anchored" data-anchor-id="hobbies-personal-life">🌍 Hobbies &amp; Personal Life</h2>
-<p>Outside of work and studies, I enjoy volunteering and have taken part in clean-up initiatives like the Calanques project in France. I also love outdoor adventures, creative projects, and anything that lets me learn something new. Whether I’m embracing my artistic side through art and design, going on walks, doing yoga, or learning a new tool, I’m always looking for ways to grow and keep my wellness levels up. Cooking and learning new recipes is a newfound hobby of mine. I truly love recreating dishes for others to taste, which is something I realised when living alone in France.</p>
-</section>
+<p>Here you will find various different projects, cerficates and works of mine.</p>
 
 
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="listing-actions-group">
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<div class="list grid quarto-listing-cols-3">
+
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
