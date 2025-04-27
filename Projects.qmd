@@ -1,18 +1,17 @@
 ---
 title: "Projects"
+listing:
+  contents: projects
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  page-size: 6
+  image-height: 200px
+  grid-item-border: true
+  grid-item-align: left
 ---
 ## Recent Projects
 
-::: {.grid}
-
-::: {.g-col-4 .card .project-card}
-<img src="/images/projects.avif" alt="Machine Learning Project">
-
-### Machine Learning Reflection
-Reflective report on implementing ML algorithms for Covid-19 fake news classification.
-
-<div class="card-footer">
-<p class="date">April 18, 2025</p>
-<p><a href="projects/ML_reflective_report.pdf" class="btn btn-sm btn-primary">View Project</a></p>
-</div>
-:::
+These are some of my recent final year academic and projects.

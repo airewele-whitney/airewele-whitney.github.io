@@ -16,5 +16,14 @@
   },
   "Projects.qmd": {
     "Projects.html": "70770df3"
+  },
+  "projects/ml-reflection.qmd": {
+    "ml-reflection.html": "146b9012"
+  },
+  "projects/business-strategy.qmd": {
+    "business-strategy.html": "f57ed11c"
+  },
+  "projects/responsible-mgt.qmd": {
+    "responsible-mgt.html": "21040226"
   }
 }

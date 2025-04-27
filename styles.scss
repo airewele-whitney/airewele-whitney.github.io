@@ -43,6 +43,21 @@ $body-bg: #eee5e9;      // Light gray for body background
     }
   }
   
+/* Styling for About page */
+.about-section {
+    margin-bottom: 2rem;
+    
+    h2 {
+      color: #4582EC;
+      border-bottom: 2px solid #f0f0f0;
+      padding-bottom: 0.5rem;
+      margin-bottom: 1rem;
+    }
+    
+    p {
+      line-height: 1.6;
+    }
+  }
   
  
 

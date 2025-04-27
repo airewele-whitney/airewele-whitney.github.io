@@ -2,12 +2,18 @@
 title: "Certifications"
 ---
 
-# My Certifications
+## Data Presentation
 
-Here's a list of my professional certifications and credentials:
+* **Communicating Data Effectively** - Kubicle, 2025
+  * Skills gained: Audience analysis, visualization selection, storytelling techniques
+  
+* **Telling Stories with Data** - Kubicle, 2025
+  * Skills gained: Narrative structure, data context, impactful presentations
 
-* **Communicating Data Effectively in Data Presentation Skills** - Kubicle, 2025
-* **Telling Stories with Data in Data Presentation Skills** - Kubicle, 2025
-* **Presenting Your Data in Data Presentation Skills** - Kubicle, 2025
-* **Keeping Your Information Safe in Data Security** - Kubicle, 2025
-* **Handling Data Securely and Responsibly in Data Security** - Kubicle, 2025
+## Data Security
+
+* **Keeping Your Information Safe** - Kubicle, 2025
+  * Skills gained: Risk assessment, data protection protocols, compliance requirements
+
+* **Handling Data Securely** - Kubicle, 2025
+  * Skills gained: Encryption fundamentals, secure data transfer, privacy frameworks
