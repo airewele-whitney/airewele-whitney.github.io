@@ -5,13 +5,13 @@ date: "2025-04-28"
 image: "/images/DCU.jpg"
 
 ---
-![DCU](/images/DCU.jpg) {width=50%}
+![DCU](/images/DCU.jpg){width=60%}
 
 It feels surreal to say it but I’ve officially completed my final year at Dublin City University.
  Looking back, this journey has been filled with so many lessons, unexpected challenges, and personal growth moments that I’ll carry with me long after graduation.
 
 ## Specialising in Data Analytics: Finding My Path
-![DCU](/images/impax.jpg)
+![Impax Asset Management](/images/impax.jpg)
 
 Choosing to specialise in data analytics wasn’t something I initially planned from the very beginning of university.
  It was through real-world experience  particularly my internship at Impax Asset Management, that I realised how much I enjoyed working with data.

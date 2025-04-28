@@ -14,6 +14,10 @@ about:
     - text: Email
       icon: envelope
       href: mailo:airewele.whitney@gmail.com
+    - text: My CV
+      icon: download
+      href: "/CV_WhitneyAirewele.pdf" 
+      target: _blank
 ---
  
 **Hi 👋 I'm Whitney. Welcome to my personal website where I share my projects, interests and professional journey. Feel free to explore and connect!**
@@ -30,6 +34,5 @@ about:
 [Learn more about me](about.qmd){.btn .btn-primary}
 :::
 :::
-
 
 

@@ -52,5 +52,8 @@
   },
   "posts/toptips.qmd": {
     "toptips.html": "aeb3fd73"
+  },
+  "portfolio/cv.qmd": {
+    "cv.html": "34efe094"
   }
 }

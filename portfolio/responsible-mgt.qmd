@@ -42,7 +42,7 @@ This group project examines AI bias in recruitment, focusing on ethical challeng
 
 - Diversify training data and development teams.
 
-8 Integrate human oversight with AI tools.
+- Integrate human oversight with AI tools.
 
 **Institutional Collaboration:**
 
@@ -51,4 +51,4 @@ This group project examines AI bias in recruitment, focusing on ethical challeng
 ## Conclusion
 While implementing audits and reforms is costly, these steps are critical for ethical AI recruitment. Aligning with SDGs ensures long-term equity and trust in AI systems.
 
-Download the [full report](/projects/AI-Bias.pdf)
+Download the [full report](/portfolio/AI-Bias.pdf)

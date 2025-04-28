@@ -2,6 +2,7 @@
   {
     "listing": "/Portfolio.html",
     "items": [
+      "/portfolio/cv.html",
       "/portfolio/ml-reflection.html",
       "/portfolio/business-strategy.html",
       "/portfolio/responsible-mgt.html"
