@@ -3,15 +3,17 @@ title: "Top 5 Tips for Students Living Alone Abroad"
 author: "Whitney Airewele"
 date: "2024-08-28"
 ---
-![Flying Abroad!](/images/travel.jpg)
+![Flying Abroad!](/images/travel.jpg){width=30%}
 
 Studying abroad is an unforgettable experience but living alone in a new country can definitely be challenging at first. During my year in Marseille, France, I learned a lot about adapting to a new environment, building independence, and overcoming unexpected challenges.
 Here are my top 5 tips for students preparing to live alone abroad:
+
 ## 1. Sort Out Essentials Early — Especially Accommodation and Admin
 Before arriving, start searching for accommodation as early as possible.
  In my case, starting late made it harder to find a good place  and it added a lot of unnecessary stress. If you can, aim to secure housing close to your university to make commuting easier, especially if you have early classes.
  Also, make setting up your local SIM card, bank account, transport card, and housing insurance a top priority during your first week it will save you so much hassle later.
 💡 Tip: Some services require a local phone number — get that sorted quickly!
+
 ## 2. Get Comfortable with Budgeting, Bills  and Cooking!
 Living alone means taking charge of your finances  and your meals.
  Aside from rent, factor in utility bills like electricity, Wi-Fi, and heating if they aren’t included.
