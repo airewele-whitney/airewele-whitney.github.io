@@ -46,5 +46,11 @@
   },
   "posts/marseille.qmd": {
     "marseille.html": "9790c809"
+  },
+  "posts/data-analytics.qmd": {
+    "data-analytics.html": "91c779bb"
+  },
+  "posts/toptips.qmd": {
+    "toptips.html": "aeb3fd73"
   }
 }
