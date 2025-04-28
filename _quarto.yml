@@ -11,7 +11,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: Projects.qmd
+      - href: Portfolio.qmd
       - href: Blog.qmd
       - hello.qmd
 page-footer:

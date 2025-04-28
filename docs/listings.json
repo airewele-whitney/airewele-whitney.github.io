@@ -9,6 +9,10 @@
   },
   {
     "listing": "/Portfolio.html",
-    "items": []
+    "items": [
+      "/portfolio/ml-reflection.html",
+      "/portfolio/business-strategy.html",
+      "/portfolio/responsible-mgt.html"
+    ]
   }
 ]

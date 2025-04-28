@@ -31,24 +31,5 @@ about:
 :::
 :::
 
-::: {.g-col-6 .vh-center .text-left}
-#### Certifications
->**Click below to look at some of my certifications.**<br><br>
-[Certifications](Certifications.qmd){.btn .btn-primary}
-:::
-
-
-::: {.g-col-6 .vh-center .center-text}
-#### Blog Interests
->**Click below to look at some blog posts in the media that interest me.**<br><br>
-[Blog](Blog.qmd.qmd){.btn .btn-primary}
-:::
-
-
-
-## Latest [Certificates](/Projects.qmdroject)
-
-::: {#recent-certificate-listing}
-:::
 
 
