@@ -15,7 +15,7 @@ website:
       - href: Blog.qmd
   page-footer:
     background: light
-    right: © 2025 Whitney Airewele. All rights reserved
+    left: © 2025 Whitney Airewele. All rights reserved
 
 
 format:
