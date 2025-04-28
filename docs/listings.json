@@ -1,13 +1,5 @@
 [
   {
-    "listing": "/Projects.html",
-    "items": [
-      "/projects/ml-reflection.html",
-      "/projects/business-strategy.html",
-      "/projects/responsible-mgt.html"
-    ]
-  },
-  {
     "listing": "/Portfolio.html",
     "items": [
       "/portfolio/ml-reflection.html",
@@ -18,8 +10,8 @@
   {
     "listing": "/Blog.html",
     "items": [
-      "/blog-posts/final-year.html",
-      "/blog-posts/marseille.html"
+      "/posts/final-year.html",
+      "/posts/marseille.html"
     ]
   }
 ]

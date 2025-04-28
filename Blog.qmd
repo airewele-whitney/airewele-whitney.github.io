@@ -1,10 +1,10 @@
 ---
 title: "My Blog"
 listing: 
-    contents: blog-posts
+    contents: posts
     sort: "date desc"
     type: default
-    fields: [title]
+    fields: [title, image]
 page-layout: full
 ---
 ## My Blog
