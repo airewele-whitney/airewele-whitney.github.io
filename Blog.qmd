@@ -1,3 +1,11 @@
 ---
-title: "Blog"
+title: "My Blog"
+listing: 
+    contents: blog-posts
+    sort: "date desc"
+    type: default
+    fields: [title]
+page-layout: full
 ---
+## My Blog
+Here you will find some of my own personal blog posts and those written by others Which I find interesting!

@@ -14,5 +14,11 @@
       "/portfolio/business-strategy.html",
       "/portfolio/responsible-mgt.html"
     ]
+  },
+  {
+    "listing": "/Blog.html",
+    "items": [
+      "/blog-posts/marseille.html"
+    ]
   }
 ]
