@@ -18,6 +18,10 @@ about:
       icon: download
       href: "/CV_WhitneyAirewele.pdf" 
       target: _blank
+    - text: Github
+      icon: github
+      href: https://github.com/airewele-whitney
+      target: _blank
 ---
  
 **Hi 👋 I'm Whitney. Welcome to my personal website where I share my projects, interests and professional journey. Feel free to explore and connect!**

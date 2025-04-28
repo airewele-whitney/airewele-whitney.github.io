@@ -1,0 +1,7 @@
+---
+title: "Machine Learning Reflection"
+author: "Whitney Airewele"
+date: "2025-04-24"
+image: "/images/kubicle.png"
+---
+Download all my [kubicle certificates](/portfolio/Kubicle.pdf)
