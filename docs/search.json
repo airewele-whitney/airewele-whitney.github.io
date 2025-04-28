@@ -214,7 +214,7 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "Hi 👋 I’m Whitney. Welcome to my personal website where I share my projects, interests and professional journey. Feel free to explore and connect!\n\n\nShort Bio\nI’m a final-year student of international business with French at Dublin City University, with a specialisation in data analytics. I’m passionate about turning data into clear, actionable insights that support better decision-making across any area of business. With my background in data, I enjoy using tools like Power BI and Excel to explore information and present it in meaningful visualisations. This site is a reflection of my skills, interests, hobbies, and ongoing journey as I pursue opportunities to continuously learn and apply my skills.\n\nLearn more about me"
+    "text": "Hi 👋 I’m Whitney. Welcome to my personal website where I share my projects, interests and professional journey. Feel free to explore and connect!"
   },
   {
     "objectID": "portfolio/cv.html",
@@ -327,5 +327,26 @@
     "title": "Reflecting on My Year Abroad and Entering Final Year",
     "section": "Growth Beyond the Classroom",
     "text": "Growth Beyond the Classroom\nMy year abroad wasn’t just about academics — it was about personal growth too.\n\nI became more confident stepping outside of my comfort zone.\nI strengthened my independence, managing life in a completely new environment.\nI broadened my cultural awareness by meeting people from all over the world.\n\nSmall everyday experiences, like catching the early metro to my 8:30 am classes or trying new activities around Marseille, added up to a big transformation.\n## Looking Ahead: Final Year and Beyond\nAs I now enter my final year at DCU, I feel a real sense of excitement and motivation. My exchange experience gave me fresh perspective, a stronger work ethic, and a clearer idea of how much I’m capable of. I look forward to building on everything I’ve learned, making the most of my last year in university, and preparing for all the new opportunities to come after graduation."
+  },
+  {
+    "objectID": "index.html#latest-from-my-portfolio",
+    "href": "index.html#latest-from-my-portfolio",
+    "title": "Welcome",
+    "section": "Latest from My Portfolio",
+    "text": "Latest from My Portfolio\n\n\n{{#portfolio.slice(0, 3)}}\n\n&lt;div class=\"card-img-top\"&gt;\n  &lt;img src=\"{{image}}\" alt=\"{{title}}\" style=\"height: 200px; width: 100%; object-fit: cover;\"&gt;\n&lt;/div&gt;\n&lt;div class=\"card-body\"&gt;\n  &lt;h5 class=\"card-title\"&gt;{{title}}&lt;/h5&gt;\n  &lt;p class=\"card-text\"&gt;{{description}}&lt;/p&gt;\n  &lt;p class=\"text-muted\"&gt;{{date}}&lt;/p&gt;\n  &lt;a href=\"{{path}}\" class=\"btn btn-primary\"&gt;View Project&lt;/a&gt;\n&lt;/div&gt;\n\n{{/portfolio}}"
+  },
+  {
+    "objectID": "index.html#latest-from-my-blog",
+    "href": "index.html#latest-from-my-blog",
+    "title": "Welcome",
+    "section": "Latest from my blog",
+    "text": "Latest from my blog"
+  },
+  {
+    "objectID": "index.html#latest-project",
+    "href": "index.html#latest-project",
+    "title": "Welcome",
+    "section": "Latest Project",
+    "text": "Latest Project"
   }
 ]
