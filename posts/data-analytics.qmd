@@ -1,0 +1,37 @@
+---
+title: "Why I Chose to Specialise in Data Analytics"
+author: "Whitney Airewele"
+date: "2024-09-13"
+---
+![Data Analytics!](/images/data.jpg)
+
+When I first started university, I wasn’t entirely sure what career path I wanted to take.
+Studying International Business gave me a wide view of many different areas  but it wasn’t until I gained real-world experience that my path became clear.
+
+## Discovering My Interest Through Experience
+During my summer internship as a Risk and Fund Services Intern, I began working closely with data every day.
+ I saw firsthand how businesses rely on data to drive decisions, improve efficiency, and meet regulatory standards.
+Transforming raw information into meaningful insights using tools like Excel, Power BI, and SQL became one of the parts of my job that I genuinely enjoyed.
+It was during this experience that I realised how powerful well-analysed data can be.  It isn’t just about numbers  it’s about storytelling, supporting strategic thinking, and making complex information understandable for wider teams.
+Seeing the direct impact of clear data insights made me excited to explore this area further and so choosing to specialise in Data Analytics felt like a natural step.
+
+## What I Love About Data Analytics
+There are a few key reasons why Data Analytics feels like the right fit for me:
+
+**- Problem-Solving:** I enjoy breaking down complex problems and uncovering insights that might not be immediately obvious.
+
+
+**- Visual Communication:** Creating dashboards and visualisations helps turn raw data into something accessible, understandable, and valuable.
+
+
+**- Technical Skills Development:** I find it rewarding to continue learning and building technical skills through platforms like Power BI, SQL databases, and Python fundamentals.
+
+
+**- Real-World Application:** Data is used across every industry. I love that my skills will allow me to work in diverse sectors, solving a wide range of real-world challenges.
+
+## Looking Ahead
+As I move into the next stage of my professional journey, I’m excited to continue growing my skills in data analytics. I hope to contribute to organisations by helping them unlock the power of their data — improving decision-making, driving innovation, and creating meaningful impact.
+
+Choosing this path wasn’t something I planned at the start of university, but sometimes the best decisions are the ones shaped by real experiences.
+I’m looking forward to seeing where this journey leads.
+
