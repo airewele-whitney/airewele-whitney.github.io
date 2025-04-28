@@ -63,4 +63,4 @@ Random Forest with SMOTE achieved the highest performance (F1 score: 0.6803, acc
 
 - Cross-validation and hyperparameter tuning
 
-Download the [full report](/projects/ML-reflective-report.pdf)
+Download the [full report](/portfolio/ML-reflective-report.pdf)
