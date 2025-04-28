@@ -13,9 +13,9 @@ website:
       - about.qmd
       - href: Portfolio.qmd
       - href: Blog.qmd
-    page-footer:
-  background: light
-  right: © 2025 Whitney Airewele. All rights reserved
+  page-footer:
+    background: light
+    right: © 2025 Whitney Airewele. All rights reserved
 
 
 format:
