@@ -46,14 +46,14 @@
     "href": "posts/final-year.html",
     "title": "Finishing Final Year: Reflections, Challenges, and New Beginnings",
     "section": "",
-    "text": "{width=50%}\nIt feels surreal to say it but I’ve officially completed my final year at Dublin City University. Looking back, this journey has been filled with so many lessons, unexpected challenges, and personal growth moments that I’ll carry with me long after graduation."
+    "text": "DCU\nIt feels surreal to say it but I’ve officially completed my final year at Dublin City University. Looking back, this journey has been filled with so many lessons, unexpected challenges, and personal growth moments that I’ll carry with me long after graduation."
   },
   {
     "objectID": "posts/final-year.html#specialising-in-data-analytics-finding-my-path",
     "href": "posts/final-year.html#specialising-in-data-analytics-finding-my-path",
     "title": "Finishing Final Year: Reflections, Challenges, and New Beginnings",
     "section": "Specialising in Data Analytics: Finding My Path",
-    "text": "Specialising in Data Analytics: Finding My Path\n\n\n\nDCU\n\n\nChoosing to specialise in data analytics wasn’t something I initially planned from the very beginning of university. It was through real-world experience particularly my internship at Impax Asset Management, that I realised how much I enjoyed working with data. Getting to apply technical skills, draw insights, and contribute to solving real business problems gave me a sense of purpose that made the decision to specialise feel natural. The experience showed me that data is not just about numbers it’s about storytelling, decision-making, and finding ways to make systems and strategies better. It gave me clarity and excitement about the kind of work I want to continue doing after university.\n## Final Year: A Journey of Highs, Lows, and Growth Final year was by no means easy. Unforeseen circumstances made parts of the year more difficult than I ever could have anticipated — moments where balancing coursework, deadlines, and personal life felt overwhelming. But despite the tough days, I kept pushing forward, and every challenge became part of a bigger story of resilience. Final year demanded more discipline, adaptability, and self-belief than any previous year. While the pressure was real, it also showed me just how far I’ve come and that I’m capable of more than I sometimes give myself credit for."
+    "text": "Specialising in Data Analytics: Finding My Path\n\n\n\nImpax Asset Management\n\n\nChoosing to specialise in data analytics wasn’t something I initially planned from the very beginning of university. It was through real-world experience particularly my internship at Impax Asset Management, that I realised how much I enjoyed working with data. Getting to apply technical skills, draw insights, and contribute to solving real business problems gave me a sense of purpose that made the decision to specialise feel natural. The experience showed me that data is not just about numbers it’s about storytelling, decision-making, and finding ways to make systems and strategies better. It gave me clarity and excitement about the kind of work I want to continue doing after university.\n## Final Year: A Journey of Highs, Lows, and Growth Final year was by no means easy. Unforeseen circumstances made parts of the year more difficult than I ever could have anticipated — moments where balancing coursework, deadlines, and personal life felt overwhelming. But despite the tough days, I kept pushing forward, and every challenge became part of a bigger story of resilience. Final year demanded more discipline, adaptability, and self-belief than any previous year. While the pressure was real, it also showed me just how far I’ve come and that I’m capable of more than I sometimes give myself credit for."
   },
   {
     "objectID": "posts/final-year.html#how-university-changed-me",
@@ -126,55 +126,6 @@
     "text": "Technologies Used\n\nPython (scikit-learn, pandas, numpy, matplotlib)\nNatural Language Processing techniques\nTF-IDF vectorisation\nOversampling techniques (SMOTE)\nMachine learning algorithms (Decision Tree, Random Forest, Logistic Regression)\nCross-validation and hyperparameter tuning\n\nDownload the full report"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "Hi 👋 I’m Whitney. Welcome to my personal website where I share my projects, interests and professional journey. Feel free to explore and connect!\n\n\nShort Bio\nI’m a final-year student of international business with French at Dublin City University, with a specialisation in data analytics. I’m passionate about turning data into clear, actionable insights that support better decision-making across any area of business. With my background in data, I enjoy using tools like Power BI and Excel to explore information and present it in meaningful visualisations. This site is a reflection of my skills, interests, hobbies, and ongoing journey as I pursue opportunities to continuously learn and apply my skills.\n\nLearn more about me"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "As an Irish Nigerian, I’ve always had an interest in diverse cultures, which led to my decision to study international business. This background has shaped my global mindset and grown my appreciation for different perspectives, whether working in international teams or adapting to new environments. My year abroad at Kedge Business School in Marseille, France deepened that perspective even further. That curiosity has continued to grow throughout my academic and professional journey.\nIt was during my 2024 summer internship as a Risk and Fund Services Intern that I understood how important data is in shaping business decisions and ensuring regulatory compliance. Working closely with risk teams and using tools like Excel and Power BI, I saw firsthand how data could be transformed into valuable insights that improve oversight. This sparked a determination in me to learn how to code, and is what drew me to study business analytics. I enjoy using my skills to create visualisations and solve problems."
-  },
-  {
-    "objectID": "about.html#background",
-    "href": "about.html#background",
-    "title": "About Me",
-    "section": "",
-    "text": "As an Irish Nigerian, I’ve always had an interest in diverse cultures, which led to my decision to study international business. This background has shaped my global mindset and grown my appreciation for different perspectives, whether working in international teams or adapting to new environments. My year abroad at Kedge Business School in Marseille, France deepened that perspective even further. That curiosity has continued to grow throughout my academic and professional journey.\nIt was during my 2024 summer internship as a Risk and Fund Services Intern that I understood how important data is in shaping business decisions and ensuring regulatory compliance. Working closely with risk teams and using tools like Excel and Power BI, I saw firsthand how data could be transformed into valuable insights that improve oversight. This sparked a determination in me to learn how to code, and is what drew me to study business analytics. I enjoy using my skills to create visualisations and solve problems."
-  },
-  {
-    "objectID": "about.html#career-aspirations",
-    "href": "about.html#career-aspirations",
-    "title": "About Me",
-    "section": "🎯 Career Aspirations",
-    "text": "🎯 Career Aspirations\nI’m passionate about using data to uncover meaningful insights that drive better decision-making. My goal is to work in environments where I can apply technical tools like Excel, Power BI, and SQL to improve systems, support strategic thinking, and bring clarity through effective data visualisation. I’m open to opportunities across different areas of business, from finance to operations, as long as I’m solving problems and creating impact."
-  },
-  {
-    "objectID": "about.html#interests-values",
-    "href": "about.html#interests-values",
-    "title": "About Me",
-    "section": "🌱 Interests & Values",
-    "text": "🌱 Interests & Values\nI’m fascinated by innovation and emerging technologies, especially in the AI space. I love finding smarter, more efficient ways to work, whether that’s through improving a workflow or learning a new tool. I’m also a naturally curious person who enjoys continuous learning, collaboration, and challenging myself through new experiences."
-  },
-  {
-    "objectID": "about.html#hobbies-personal-life",
-    "href": "about.html#hobbies-personal-life",
-    "title": "About Me",
-    "section": "🌍 Hobbies & Personal Life",
-    "text": "🌍 Hobbies & Personal Life\nOutside of work and studies, I enjoy volunteering and have taken part in clean-up initiatives like the Calanques project in France. I also love outdoor adventures, creative projects, and anything that lets me learn something new. Whether I’m embracing my artistic side through art and design, going on walks, doing yoga, or learning a new tool, I’m always looking for ways to grow and keep my wellness levels up. Cooking and learning new recipes is a newfound hobby of mine. I truly love recreating dishes for others to taste, which is something I realised when living alone in France."
-  },
-  {
-    "objectID": "Blog.html",
-    "href": "Blog.html",
-    "title": "My Blog",
-    "section": "",
-    "text": "Here you will find some of my own personal blog posts and those written by others Which I find interesting!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinishing Final Year: Reflections, Challenges, and New Beginnings\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhy I Chose to Specialise in Data Analytics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTop 5 Tips for Students Living Alone Abroad\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReflecting on My Year Abroad and Entering Final Year\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "portfolio/business-strategy.html",
     "href": "portfolio/business-strategy.html",
     "title": "Bord Bia Strategic Consulting",
@@ -217,6 +168,62 @@
     "text": "Conclusion\nThe strategic interventions identified will strengthen Bord Bia’s global position, drive long-term growth, and reinforce Ireland’s reputation as a leader in sustainable food production.\nDownload the full report\nDownload the full presentation"
   },
   {
+    "objectID": "Blog.html",
+    "href": "Blog.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "Here you will find some of my own personal blog posts and those written by others Which I find interesting!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinishing Final Year: Reflections, Challenges, and New Beginnings\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhy I Chose to Specialise in Data Analytics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTop 5 Tips for Students Living Alone Abroad\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReflecting on My Year Abroad and Entering Final Year\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "As an Irish Nigerian, I’ve always had an interest in diverse cultures, which led to my decision to study international business. This background has shaped my global mindset and grown my appreciation for different perspectives, whether working in international teams or adapting to new environments. My year abroad at Kedge Business School in Marseille, France deepened that perspective even further. That curiosity has continued to grow throughout my academic and professional journey.\nIt was during my 2024 summer internship as a Risk and Fund Services Intern that I understood how important data is in shaping business decisions and ensuring regulatory compliance. Working closely with risk teams and using tools like Excel and Power BI, I saw firsthand how data could be transformed into valuable insights that improve oversight. This sparked a determination in me to learn how to code, and is what drew me to study business analytics. I enjoy using my skills to create visualisations and solve problems."
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About Me",
+    "section": "",
+    "text": "As an Irish Nigerian, I’ve always had an interest in diverse cultures, which led to my decision to study international business. This background has shaped my global mindset and grown my appreciation for different perspectives, whether working in international teams or adapting to new environments. My year abroad at Kedge Business School in Marseille, France deepened that perspective even further. That curiosity has continued to grow throughout my academic and professional journey.\nIt was during my 2024 summer internship as a Risk and Fund Services Intern that I understood how important data is in shaping business decisions and ensuring regulatory compliance. Working closely with risk teams and using tools like Excel and Power BI, I saw firsthand how data could be transformed into valuable insights that improve oversight. This sparked a determination in me to learn how to code, and is what drew me to study business analytics. I enjoy using my skills to create visualisations and solve problems."
+  },
+  {
+    "objectID": "about.html#career-aspirations",
+    "href": "about.html#career-aspirations",
+    "title": "About Me",
+    "section": "🎯 Career Aspirations",
+    "text": "🎯 Career Aspirations\nI’m passionate about using data to uncover meaningful insights that drive better decision-making. My goal is to work in environments where I can apply technical tools like Excel, Power BI, and SQL to improve systems, support strategic thinking, and bring clarity through effective data visualisation. I’m open to opportunities across different areas of business, from finance to operations, as long as I’m solving problems and creating impact."
+  },
+  {
+    "objectID": "about.html#interests-values",
+    "href": "about.html#interests-values",
+    "title": "About Me",
+    "section": "🌱 Interests & Values",
+    "text": "🌱 Interests & Values\nI’m fascinated by innovation and emerging technologies, especially in the AI space. I love finding smarter, more efficient ways to work, whether that’s through improving a workflow or learning a new tool. I’m also a naturally curious person who enjoys continuous learning, collaboration, and challenging myself through new experiences."
+  },
+  {
+    "objectID": "about.html#hobbies-personal-life",
+    "href": "about.html#hobbies-personal-life",
+    "title": "About Me",
+    "section": "🌍 Hobbies & Personal Life",
+    "text": "🌍 Hobbies & Personal Life\nOutside of work and studies, I enjoy volunteering and have taken part in clean-up initiatives like the Calanques project in France. I also love outdoor adventures, creative projects, and anything that lets me learn something new. Whether I’m embracing my artistic side through art and design, going on walks, doing yoga, or learning a new tool, I’m always looking for ways to grow and keep my wellness levels up. Cooking and learning new recipes is a newfound hobby of mine. I truly love recreating dishes for others to taste, which is something I realised when living alone in France."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Hi 👋 I’m Whitney. Welcome to my personal website where I share my projects, interests and professional journey. Feel free to explore and connect!\n\n\nShort Bio\nI’m a final-year student of international business with French at Dublin City University, with a specialisation in data analytics. I’m passionate about turning data into clear, actionable insights that support better decision-making across any area of business. With my background in data, I enjoy using tools like Power BI and Excel to explore information and present it in meaningful visualisations. This site is a reflection of my skills, interests, hobbies, and ongoing journey as I pursue opportunities to continuously learn and apply my skills.\n\nLearn more about me"
+  },
+  {
+    "objectID": "portfolio/cv.html",
+    "href": "portfolio/cv.html",
+    "title": "My CV",
+    "section": "",
+    "text": "Download my full CV"
+  },
+  {
     "objectID": "portfolio/responsible-mgt.html",
     "href": "portfolio/responsible-mgt.html",
     "title": "AI Ethics in Recruitment",
@@ -256,7 +263,7 @@
     "href": "portfolio/responsible-mgt.html#proposed-solutions",
     "title": "AI Ethics in Recruitment",
     "section": "Proposed Solutions",
-    "text": "Proposed Solutions\nRegulatory Measures:\n\nMandate annual AI bias audits (e.g., EU AI Act, New York’s laws).\nRequire transparency in algorithmic decision-making.\n\nOrganisational Actions:\n\nDiversify training data and development teams.\n\n8 Integrate human oversight with AI tools.\nInstitutional Collaboration:\n\nJoint research initiatives to address bias."
+    "text": "Proposed Solutions\nRegulatory Measures:\n\nMandate annual AI bias audits (e.g., EU AI Act, New York’s laws).\nRequire transparency in algorithmic decision-making.\n\nOrganisational Actions:\n\nDiversify training data and development teams.\nIntegrate human oversight with AI tools.\n\nInstitutional Collaboration:\n\nJoint research initiatives to address bias."
   },
   {
     "objectID": "portfolio/responsible-mgt.html#conclusion",
@@ -320,12 +327,5 @@
     "title": "Reflecting on My Year Abroad and Entering Final Year",
     "section": "Growth Beyond the Classroom",
     "text": "Growth Beyond the Classroom\nMy year abroad wasn’t just about academics — it was about personal growth too.\n\nI became more confident stepping outside of my comfort zone.\nI strengthened my independence, managing life in a completely new environment.\nI broadened my cultural awareness by meeting people from all over the world.\n\nSmall everyday experiences, like catching the early metro to my 8:30 am classes or trying new activities around Marseille, added up to a big transformation.\n## Looking Ahead: Final Year and Beyond\nAs I now enter my final year at DCU, I feel a real sense of excitement and motivation. My exchange experience gave me fresh perspective, a stronger work ethic, and a clearer idea of how much I’m capable of. I look forward to building on everything I’ve learned, making the most of my last year in university, and preparing for all the new opportunities to come after graduation."
-  },
-  {
-    "objectID": "portfolio/cv.html",
-    "href": "portfolio/cv.html",
-    "title": "My CV",
-    "section": "",
-    "text": "Download my full CV"
   }
 ]
