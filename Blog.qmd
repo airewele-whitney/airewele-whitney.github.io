@@ -7,5 +7,4 @@ listing:
     fields: [title, image]
 page-layout: full
 ---
-## My Blog
-Here you will find some of my own personal blog posts and those written by others Which I find interesting!
+**Here you will find some of my own personal blog posts and those written by others Which I find interesting!**
