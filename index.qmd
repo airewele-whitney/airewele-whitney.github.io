@@ -38,7 +38,7 @@ about:
 ## Latest From Portfolio {.g-col-12}
 **ML algorithms for Covid-19 fake news classification**
 
-![ ](/images/projects.avif.){width=800 height=700}
+![ ](/images/projects.avif){width=800 height=700}
 
 [Read about my coding project.](portfolio/ml-reflection.qmd)
 
