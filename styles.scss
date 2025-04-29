@@ -9,7 +9,7 @@ $body-bg: #ffffff;
 
 
 .darker-text {
-    color: #070707;
+    color: #000000;
   }
 
 
@@ -60,6 +60,6 @@ $body-bg: #ffffff;
 div.card, 
 .listing-grid-item {
   border: 2px solid #3f2739 !important;
-  border-radius: 4px; /* Optional: adds slightly rounded corners */
-  overflow: hidden; /* Ensures content stays within the border */
+  border-radius: 4px; 
+  overflow: hidden; 
 } 
