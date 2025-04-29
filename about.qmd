@@ -8,25 +8,25 @@ title: "About Me"
 ::: {.about-section}
 ## 🧩 Background
 
-As an Irish Nigerian, I’ve always had an interest in diverse cultures, which led to my decision to study international business. This background has shaped my global mindset and grown my appreciation for different perspectives, whether working in international teams or adapting to new environments. My year abroad at Kedge Business School in Marseille, France deepened that perspective even further. That curiosity has continued to grow throughout my academic and professional journey.
+**As an Irish Nigerian, I’ve always had an interest in diverse cultures, which led to my decision to study international business. This background has shaped my global mindset and grown my appreciation for different perspectives, whether working in international teams or adapting to new environments. My year abroad at Kedge Business School in Marseille, France deepened that perspective even further. That curiosity has continued to grow throughout my academic and professional journey.**
 
-It was during my 2024 summer internship as a Risk and Fund Services Intern that I understood how important data is in shaping business decisions and ensuring regulatory compliance. Working closely with risk teams and using tools like Excel and Power BI, I saw firsthand how data could be transformed into valuable insights that improve oversight. This sparked a determination in me to learn how to code, and is what drew me to study business analytics. I enjoy using my skills to create visualisations and solve problems.
+**It was during my 2024 summer internship as a Risk and Fund Services Intern that I understood how important data is in shaping business decisions and ensuring regulatory compliance. Working closely with risk teams and using tools like Excel and Power BI, I saw firsthand how data could be transformed into valuable insights that improve oversight. This sparked a determination in me to learn how to code, and is what drew me to study business analytics. I enjoy using my skills to create visualisations and solve problems.**
 :::
 
 ::: {.about-section}
 ## 🎯 Career Aspirations
 
-I’m passionate about using data to uncover meaningful insights that drive better decision-making. My goal is to work in environments where I can apply technical tools like Excel, Power BI, and SQL to improve systems, support strategic thinking, and bring clarity through effective data visualisation. I'm open to opportunities across different areas of business, from finance to operations, as long as I'm solving problems and creating impact.
+**I’m passionate about using data to uncover meaningful insights that drive better decision-making. My goal is to work in environments where I can apply technical tools like Excel, Power BI, and SQL to improve systems, support strategic thinking, and bring clarity through effective data visualisation. I'm open to opportunities across different areas of business, from finance to operations, as long as I'm solving problems and creating impact.**
 :::
 
 ::: {.about-section}
 ## 🌱 Interests & Values
 
-I'm fascinated by innovation and emerging technologies, especially in the AI space. I love finding smarter, more efficient ways to work, whether that’s through improving a workflow or learning a new tool. I'm also a naturally curious person who enjoys continuous learning, collaboration, and challenging myself through new experiences.
+**I'm fascinated by innovation and emerging technologies, especially in the AI space. I love finding smarter, more efficient ways to work, whether that’s through improving a workflow or learning a new tool. I'm also a naturally curious person who enjoys continuous learning, collaboration, and challenging myself through new experiences.**
 :::
 
 ::: {.about-section}
 ## 🌍 Hobbies & Personal Life
 
-Outside of work and studies, I enjoy volunteering and have taken part in clean-up initiatives like the Calanques project in France. I also love outdoor adventures, creative projects, and anything that lets me learn something new. Whether I’m embracing my artistic side through art and design, going on walks, doing yoga, or learning a new tool, I’m always looking for ways to grow and keep my wellness levels up. Cooking and learning new recipes is a newfound hobby of mine. I truly love recreating dishes for others to taste, which is something I realised when living alone in France.
+**Outside of work and studies, I enjoy volunteering and have taken part in clean-up initiatives like the Calanques project in France. I also love outdoor adventures, creative projects, and anything that lets me learn something new. Whether I’m embracing my artistic side through art and design, going on walks, doing yoga, or learning a new tool, I’m always looking for ways to grow and keep my wellness levels up. Cooking and learning new recipes is a newfound hobby of mine. I truly love recreating dishes for others to taste, which is something I realised when living alone in France.**
 :::

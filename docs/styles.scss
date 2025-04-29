@@ -42,7 +42,7 @@ $body-bg: #eee5e9;
   .about-section {
     margin-bottom: 2rem;
    
-    h1, h2, h4 {
+    h2 {
       color: #3f2739;
       border-bottom: 2px solid #f0f0f0;
       padding-bottom: 0.5rem;
@@ -55,11 +55,3 @@ $body-bg: #eee5e9;
   }
  
   
-/* Add borders to the listing cards with the specific color */
-.quarto-grid-item, 
-div.card, 
-.listing-grid-item {
-  border: 2px solid #3f2739 !important;
-  border-radius: 4px; /* Optional: adds slightly rounded corners */
-  overflow: hidden; /* Ensures content stays within the border */
-} 

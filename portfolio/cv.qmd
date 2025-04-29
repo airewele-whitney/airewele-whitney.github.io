@@ -4,4 +4,4 @@ author: "Whitney Airewele"
 date: "2025-04-28"
 image: "/images/cv.jpg"
 ---
-Download my [full CV](/portfolio/CV_WhitneyAirewele.pdf)
+**Download my [full CV](/portfolio/CV_WhitneyAirewele.pdf)**

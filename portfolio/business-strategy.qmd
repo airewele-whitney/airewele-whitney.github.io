@@ -8,40 +8,44 @@ image: "/images/bord-bia.jpg"
 ---
 
 ## Overview
-This project involved a comprehensive strategic review of Bord Bia, Ireland's food and drink authority, from the perspective of management consultants. The analysis focused on two key strategic initiatives: expansion into the UAE's Halal food market and enhancing sustainability innovations through the Origin Green programme.
+**This project involved a comprehensive strategic review of Bord Bia, Ireland's food and drink authority, from the perspective of management consultants. The analysis focused on two key strategic initiatives: expansion into the UAE's Halal food market and enhancing sustainability innovations through the Origin Green programme.**
 
 ## Methodology
-We applied several strategic frameworks to analyse Bord Bia's position and develop recommendations:
+**We applied several strategic frameworks to analyse Bord Bia's position and develop recommendations:**
 
-- PESTLE Analysis for macro-environmental factors
+**- PESTLE Analysis for macro-environmental factors**
 
-- Porter's Five Forces for industry competition
+**- Porter's Five Forces for industry competition**
 
-- SWOT Analysis for organisational capabilities
+**- SWOT Analysis for organisational capabilities**
 
-- Financial modelling for market expansion projections
+**- Financial modelling for market expansion projections**
 
 ## Key Findings
-- Bord Bia is well-positioned to leverage its sustainability credentials in the premium Halal food sector in the UAE
+**- Bord Bia is well-positioned to leverage its sustainability credentials in the premium Halal food sector in the UAE**
 
-- 29% of UAE consumers are willing to pay premium prices for quality-assured beef
+**- 29% of UAE consumers are willing to pay premium prices for quality-assured beef**
 
-- Break-even analysis showed decreasing volume requirements (from 6.7 to 4.2 tonnes) over a 5-year period
+**- Break-even analysis showed decreasing volume requirements (from 6.7 to 4.2 tonnes) over a 5-year period**
 
-- Blockchain-enabled traceability can enhance consumer trust in Halal certification
+**- Blockchain-enabled traceability can enhance consumer trust in Halal certification**
 
-- Alternative protein development aligns with Bord Bia's sustainability leadership
+**- Alternative protein development aligns with Bord Bia's sustainability leadership**
 
 ## Strategic Recommendations
-Our recommendations followed a four-phase implementation approach:
-1. **Establishment**: Partnerships with UAE certification bodies (ESMA, HIA)
-2. **Market Penetration**: Premium pricing strategy focusing on sustainability and quality
-3. **Marketing**: Digital-first approach targeting HORECA sector
-4. **Scaling**: Expansion to Southeast Asian markets following UAE success
+**Our recommendations followed a four-phase implementation approach:**
+1. #### Establishment: 
+**Partnerships with UAE certification bodies (ESMA, HIA)**
+2. #### Market Penetration: 
+**Premium pricing strategy focusing on sustainability and quality**
+3. #### Marketing: 
+**Digital-first approach targeting HORECA sector**
+4. #### Scaling: 
+**Expansion to Southeast Asian markets following UAE success**
 
 ## Conclusion
-The strategic interventions identified will strengthen Bord Bia's global position, drive long-term growth, and reinforce Ireland's reputation as a leader in sustainable food production.
+**The strategic interventions identified will strengthen Bord Bia's global position, drive long-term growth, and reinforce Ireland's reputation as a leader in sustainable food production.**
 
-Download the [full report](/projects/INTB7-Group-Written-Report.pdf)
+**Download the [full report](/projects/INTB7-Group-Written-Report.pdf)**
 
-Download the [full presentation](/portfolio/INTB7-Business-Strategy-Presentation.pdf)
+**Download the [full presentation](/portfolio/INTB7-Business-Strategy-Presentation.pdf)**

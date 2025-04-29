@@ -12,5 +12,4 @@ listing:
   grid-item-border: true
   grid-item-align: left
 ---
-## My Portfolio
-Here you will find various different projects, certificates and works of mine.
+**Here you will find various different projects, certificates and works of mine.**

@@ -21,6 +21,7 @@ format:
       - lux
       - brand
       - styles.scss
+    css: styles.css
     mainfont: Urbanist
     toc-title: "On this page"
     toc-location: right
