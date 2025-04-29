@@ -5,7 +5,7 @@ date: "2025-04-28"
 image: "/images/DCU.jpg"
 
 ---
-![DCU](/images/DCU.jpg){width=60%}
+![DCU](/images/DCU.jpg)
 
 It feels surreal to say it but I’ve officially completed my final year at Dublin City University.
  Looking back, this journey has been filled with so many lessons, unexpected challenges, and personal growth moments that I’ll carry with me long after graduation.
@@ -19,8 +19,8 @@ Choosing to specialise in data analytics wasn’t something I initially planned 
 The experience showed me that data is not just about numbers it’s about storytelling, decision-making, and finding ways to make systems and strategies better.
  It gave me clarity and excitement about the kind of work I want to continue doing after university.
 
- ## Final Year: A Journey of Highs, Lows, and Growth
-Final year was by no means easy.
+ 
+ Final year was by no means easy.
  Unforeseen circumstances made parts of the year more difficult than I ever could have anticipated — moments where balancing coursework, deadlines, and personal life felt overwhelming.
  But despite the tough days, I kept pushing forward, and every challenge became part of a bigger story of resilience.
 Final year demanded more discipline, adaptability, and self-belief than any previous year.

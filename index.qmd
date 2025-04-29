@@ -11,9 +11,6 @@ about:
       text: Linkedin
       href: https://www.linkedin.com/in/whitneyairewele/
       target: _blank
-    - text: Email
-      icon: envelope
-      href: mailo:airewele.whitney@gmail.com
     - text: My CV
       icon: download
       href: "/CV_WhitneyAirewele.pdf" 
@@ -38,8 +35,69 @@ about:
 [Learn more about me](about.qmd){.btn .btn-primary}
 :::
 :::
+## Latest From Portfolio {.g-col-12}
+**ML algorithms for Covid-19 fake news classification**
 
-## Latest Project
+![ ](/images/projects.avif.){width=800 height=700}
 
-![ ](/images/projects.avif)
+[Read about my coding project.](portfolio/ml-reflection.qmd)
 
+
+## Latest Blog Post {.g-col-12}
+**Finishing final year!**
+
+![ ](/images/DCU.jpg) 
+[Read about my final year reflection.](posts/final-year.qmd)
+
+## 📬 Contact Me{.g-col-12}
+
+<div class="form-wrapper">
+  <form action="https://formspree.io/f/mwpovkrk" method="POST">
+    <label for="name">Name:</label><br>
+    <input type="text" id="name" name="name" required><br><br>
+
+    <label for="email">Email:</label><br>
+    <input type="email" id="email" name="_replyto" required><br><br>
+
+    <label for="message">Message:</label><br>
+    <textarea id="message" name="message" rows="5" required></textarea><br><br>
+
+    <button type="submit">Send Message</button>
+  </form>
+</div>
+
+<style>
+.form-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+form {
+    max-width: 500px;
+    width: 100%;
+    padding: 1em;
+    background: #f9f9f9;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+}
+input, textarea, button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 6px;
+    margin-bottom: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+button {
+    background-color: #3f2739;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #3f2739;
+}
+</style>

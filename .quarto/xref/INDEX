@@ -55,5 +55,8 @@
   },
   "portfolio/cv.qmd": {
     "cv.html": "34efe094"
+  },
+  "portfolio/kubicle.qmd": {
+    "kubicle.html": "c4b473b8"
   }
 }

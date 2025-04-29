@@ -3,9 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "Welcome"
+  title: "WHITNEY AIREWELE"
   navbar:
-    title: false
     logo: images/logo.png
     right:
       - href: index.qmd
@@ -16,8 +15,6 @@ website:
   page-footer:
     background: light
     left: © 2025 Whitney Airewele. All rights reserved
-
-
 format:
   html:
     theme: 
@@ -29,8 +26,7 @@ format:
     toc-location: right
     page-layout: article
     
-    
-
+   
     
     
 

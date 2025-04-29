@@ -126,6 +126,83 @@
     "text": "Technologies Used\n\nPython (scikit-learn, pandas, numpy, matplotlib)\nNatural Language Processing techniques\nTF-IDF vectorisation\nOversampling techniques (SMOTE)\nMachine learning algorithms (Decision Tree, Random Forest, Logistic Regression)\nCross-validation and hyperparameter tuning\n\nDownload the full report"
   },
   {
+    "objectID": "portfolio/cv.html",
+    "href": "portfolio/cv.html",
+    "title": "My CV",
+    "section": "",
+    "text": "Download my full CV"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Hi 👋 I’m Whitney. Welcome to my personal website where I share my projects, interests and professional journey. Feel free to explore and connect!"
+  },
+  {
+    "objectID": "index.html#latest-from-portfolio",
+    "href": "index.html#latest-from-portfolio",
+    "title": "Welcome",
+    "section": "Latest From Portfolio",
+    "text": "Latest From Portfolio\nML algorithms for Covid-19 fake news classification\n\nRead about my coding project."
+  },
+  {
+    "objectID": "index.html#latest-blog-post",
+    "href": "index.html#latest-blog-post",
+    "title": "Welcome",
+    "section": "Latest Blog Post",
+    "text": "Latest Blog Post\nFinishing final year!\n Read about my final year reflection."
+  },
+  {
+    "objectID": "index.html#contact-me",
+    "href": "index.html#contact-me",
+    "title": "Welcome",
+    "section": "📬 Contact Me",
+    "text": "📬 Contact Me\n\n\nName: \nEmail: \nMessage:\n\n\n\nSend Message"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "As an Irish Nigerian, I’ve always had an interest in diverse cultures, which led to my decision to study international business. This background has shaped my global mindset and grown my appreciation for different perspectives, whether working in international teams or adapting to new environments. My year abroad at Kedge Business School in Marseille, France deepened that perspective even further. That curiosity has continued to grow throughout my academic and professional journey.\nIt was during my 2024 summer internship as a Risk and Fund Services Intern that I understood how important data is in shaping business decisions and ensuring regulatory compliance. Working closely with risk teams and using tools like Excel and Power BI, I saw firsthand how data could be transformed into valuable insights that improve oversight. This sparked a determination in me to learn how to code, and is what drew me to study business analytics. I enjoy using my skills to create visualisations and solve problems."
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About Me",
+    "section": "",
+    "text": "As an Irish Nigerian, I’ve always had an interest in diverse cultures, which led to my decision to study international business. This background has shaped my global mindset and grown my appreciation for different perspectives, whether working in international teams or adapting to new environments. My year abroad at Kedge Business School in Marseille, France deepened that perspective even further. That curiosity has continued to grow throughout my academic and professional journey.\nIt was during my 2024 summer internship as a Risk and Fund Services Intern that I understood how important data is in shaping business decisions and ensuring regulatory compliance. Working closely with risk teams and using tools like Excel and Power BI, I saw firsthand how data could be transformed into valuable insights that improve oversight. This sparked a determination in me to learn how to code, and is what drew me to study business analytics. I enjoy using my skills to create visualisations and solve problems."
+  },
+  {
+    "objectID": "about.html#career-aspirations",
+    "href": "about.html#career-aspirations",
+    "title": "About Me",
+    "section": "🎯 Career Aspirations",
+    "text": "🎯 Career Aspirations\nI’m passionate about using data to uncover meaningful insights that drive better decision-making. My goal is to work in environments where I can apply technical tools like Excel, Power BI, and SQL to improve systems, support strategic thinking, and bring clarity through effective data visualisation. I’m open to opportunities across different areas of business, from finance to operations, as long as I’m solving problems and creating impact."
+  },
+  {
+    "objectID": "about.html#interests-values",
+    "href": "about.html#interests-values",
+    "title": "About Me",
+    "section": "🌱 Interests & Values",
+    "text": "🌱 Interests & Values\nI’m fascinated by innovation and emerging technologies, especially in the AI space. I love finding smarter, more efficient ways to work, whether that’s through improving a workflow or learning a new tool. I’m also a naturally curious person who enjoys continuous learning, collaboration, and challenging myself through new experiences."
+  },
+  {
+    "objectID": "about.html#hobbies-personal-life",
+    "href": "about.html#hobbies-personal-life",
+    "title": "About Me",
+    "section": "🌍 Hobbies & Personal Life",
+    "text": "🌍 Hobbies & Personal Life\nOutside of work and studies, I enjoy volunteering and have taken part in clean-up initiatives like the Calanques project in France. I also love outdoor adventures, creative projects, and anything that lets me learn something new. Whether I’m embracing my artistic side through art and design, going on walks, doing yoga, or learning a new tool, I’m always looking for ways to grow and keep my wellness levels up. Cooking and learning new recipes is a newfound hobby of mine. I truly love recreating dishes for others to taste, which is something I realised when living alone in France."
+  },
+  {
+    "objectID": "Blog.html",
+    "href": "Blog.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "Here you will find some of my own personal blog posts and those written by others Which I find interesting!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinishing Final Year: Reflections, Challenges, and New Beginnings\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhy I Chose to Specialise in Data Analytics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTop 5 Tips for Students Living Alone Abroad\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReflecting on My Year Abroad and Entering Final Year\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "portfolio/business-strategy.html",
     "href": "portfolio/business-strategy.html",
     "title": "Bord Bia Strategic Consulting",
@@ -168,60 +245,11 @@
     "text": "Conclusion\nThe strategic interventions identified will strengthen Bord Bia’s global position, drive long-term growth, and reinforce Ireland’s reputation as a leader in sustainable food production.\nDownload the full report\nDownload the full presentation"
   },
   {
-    "objectID": "Blog.html",
-    "href": "Blog.html",
-    "title": "My Blog",
+    "objectID": "portfolio/kubicle.html",
+    "href": "portfolio/kubicle.html",
+    "title": "Machine Learning Reflection",
     "section": "",
-    "text": "Here you will find some of my own personal blog posts and those written by others Which I find interesting!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinishing Final Year: Reflections, Challenges, and New Beginnings\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhy I Chose to Specialise in Data Analytics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTop 5 Tips for Students Living Alone Abroad\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReflecting on My Year Abroad and Entering Final Year\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "As an Irish Nigerian, I’ve always had an interest in diverse cultures, which led to my decision to study international business. This background has shaped my global mindset and grown my appreciation for different perspectives, whether working in international teams or adapting to new environments. My year abroad at Kedge Business School in Marseille, France deepened that perspective even further. That curiosity has continued to grow throughout my academic and professional journey.\nIt was during my 2024 summer internship as a Risk and Fund Services Intern that I understood how important data is in shaping business decisions and ensuring regulatory compliance. Working closely with risk teams and using tools like Excel and Power BI, I saw firsthand how data could be transformed into valuable insights that improve oversight. This sparked a determination in me to learn how to code, and is what drew me to study business analytics. I enjoy using my skills to create visualisations and solve problems."
-  },
-  {
-    "objectID": "about.html#background",
-    "href": "about.html#background",
-    "title": "About Me",
-    "section": "",
-    "text": "As an Irish Nigerian, I’ve always had an interest in diverse cultures, which led to my decision to study international business. This background has shaped my global mindset and grown my appreciation for different perspectives, whether working in international teams or adapting to new environments. My year abroad at Kedge Business School in Marseille, France deepened that perspective even further. That curiosity has continued to grow throughout my academic and professional journey.\nIt was during my 2024 summer internship as a Risk and Fund Services Intern that I understood how important data is in shaping business decisions and ensuring regulatory compliance. Working closely with risk teams and using tools like Excel and Power BI, I saw firsthand how data could be transformed into valuable insights that improve oversight. This sparked a determination in me to learn how to code, and is what drew me to study business analytics. I enjoy using my skills to create visualisations and solve problems."
-  },
-  {
-    "objectID": "about.html#career-aspirations",
-    "href": "about.html#career-aspirations",
-    "title": "About Me",
-    "section": "🎯 Career Aspirations",
-    "text": "🎯 Career Aspirations\nI’m passionate about using data to uncover meaningful insights that drive better decision-making. My goal is to work in environments where I can apply technical tools like Excel, Power BI, and SQL to improve systems, support strategic thinking, and bring clarity through effective data visualisation. I’m open to opportunities across different areas of business, from finance to operations, as long as I’m solving problems and creating impact."
-  },
-  {
-    "objectID": "about.html#interests-values",
-    "href": "about.html#interests-values",
-    "title": "About Me",
-    "section": "🌱 Interests & Values",
-    "text": "🌱 Interests & Values\nI’m fascinated by innovation and emerging technologies, especially in the AI space. I love finding smarter, more efficient ways to work, whether that’s through improving a workflow or learning a new tool. I’m also a naturally curious person who enjoys continuous learning, collaboration, and challenging myself through new experiences."
-  },
-  {
-    "objectID": "about.html#hobbies-personal-life",
-    "href": "about.html#hobbies-personal-life",
-    "title": "About Me",
-    "section": "🌍 Hobbies & Personal Life",
-    "text": "🌍 Hobbies & Personal Life\nOutside of work and studies, I enjoy volunteering and have taken part in clean-up initiatives like the Calanques project in France. I also love outdoor adventures, creative projects, and anything that lets me learn something new. Whether I’m embracing my artistic side through art and design, going on walks, doing yoga, or learning a new tool, I’m always looking for ways to grow and keep my wellness levels up. Cooking and learning new recipes is a newfound hobby of mine. I truly love recreating dishes for others to taste, which is something I realised when living alone in France."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "Hi 👋 I’m Whitney. Welcome to my personal website where I share my projects, interests and professional journey. Feel free to explore and connect!"
-  },
-  {
-    "objectID": "portfolio/cv.html",
-    "href": "portfolio/cv.html",
-    "title": "My CV",
-    "section": "",
-    "text": "Download my full CV"
+    "text": "Download all my kubicle certificates"
   },
   {
     "objectID": "portfolio/responsible-mgt.html",
@@ -327,26 +355,5 @@
     "title": "Reflecting on My Year Abroad and Entering Final Year",
     "section": "Growth Beyond the Classroom",
     "text": "Growth Beyond the Classroom\nMy year abroad wasn’t just about academics — it was about personal growth too.\n\nI became more confident stepping outside of my comfort zone.\nI strengthened my independence, managing life in a completely new environment.\nI broadened my cultural awareness by meeting people from all over the world.\n\nSmall everyday experiences, like catching the early metro to my 8:30 am classes or trying new activities around Marseille, added up to a big transformation.\n## Looking Ahead: Final Year and Beyond\nAs I now enter my final year at DCU, I feel a real sense of excitement and motivation. My exchange experience gave me fresh perspective, a stronger work ethic, and a clearer idea of how much I’m capable of. I look forward to building on everything I’ve learned, making the most of my last year in university, and preparing for all the new opportunities to come after graduation."
-  },
-  {
-    "objectID": "index.html#latest-from-my-portfolio",
-    "href": "index.html#latest-from-my-portfolio",
-    "title": "Welcome",
-    "section": "Latest from My Portfolio",
-    "text": "Latest from My Portfolio\n\n\n{{#portfolio.slice(0, 3)}}\n\n&lt;div class=\"card-img-top\"&gt;\n  &lt;img src=\"{{image}}\" alt=\"{{title}}\" style=\"height: 200px; width: 100%; object-fit: cover;\"&gt;\n&lt;/div&gt;\n&lt;div class=\"card-body\"&gt;\n  &lt;h5 class=\"card-title\"&gt;{{title}}&lt;/h5&gt;\n  &lt;p class=\"card-text\"&gt;{{description}}&lt;/p&gt;\n  &lt;p class=\"text-muted\"&gt;{{date}}&lt;/p&gt;\n  &lt;a href=\"{{path}}\" class=\"btn btn-primary\"&gt;View Project&lt;/a&gt;\n&lt;/div&gt;\n\n{{/portfolio}}"
-  },
-  {
-    "objectID": "index.html#latest-from-my-blog",
-    "href": "index.html#latest-from-my-blog",
-    "title": "Welcome",
-    "section": "Latest from my blog",
-    "text": "Latest from my blog"
-  },
-  {
-    "objectID": "index.html#latest-project",
-    "href": "index.html#latest-project",
-    "title": "Welcome",
-    "section": "Latest Project",
-    "text": "Latest Project"
   }
 ]
