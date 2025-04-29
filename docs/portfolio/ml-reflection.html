@@ -171,51 +171,43 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="overview" class="level2">
 <h2 class="anchored" data-anchor-id="overview">Overview</h2>
-<p>With the rapid spread of misinformation during the COVID-19 pandemic, automated systems for detecting fake news have become increasingly important. This project developed and evaluated a machine learning approach to classify COVID-19 news headlines as either fake (class 0) or real (class 1).</p>
+<p><strong>With the rapid spread of misinformation during the COVID-19 pandemic, automated systems for detecting fake news have become increasingly important. This project developed and evaluated a machine learning approach to classify COVID-19 news headlines as either fake (class 0) or real (class 1).</strong></p>
 </section>
 <section id="the-challenge" class="level2">
 <h2 class="anchored" data-anchor-id="the-challenge">The Challenge</h2>
-<p>The COVID-19 pandemic was accompanied by what health officials called an “infodemic” – a flood of both accurate and inaccurate information that made it difficult for people to find reliable guidance. Fake news provides comfort during uncertainty but can lead to dangerous behaviours like mask refusal and vaccine hesitancy.</p>
-<p>While human fact-checking exists through websites like PolitiFact and Snopes, these methods:</p>
-<ul>
-<li><p>Require human expertise to identify fake articles</p></li>
-<li><p>Cannot scale to the volume of content being produced</p></li>
-<li><p>Are not generalisable across different topics</p></li>
-</ul>
+<p><strong>The COVID-19 pandemic was accompanied by what health officials called an “infodemic” – a flood of both accurate and inaccurate information that made it difficult for people to find reliable guidance. Fake news provides comfort during uncertainty but can lead to dangerous behaviours like mask refusal and vaccine hesitancy.</strong></p>
+<p><strong>While human fact-checking exists through websites like PolitiFact and Snopes, these methods:</strong></p>
+<p><strong>- Require human expertise to identify fake articles</strong></p>
+<p><strong>- Cannot scale to the volume of content being produced</strong></p>
+<p><strong>- Are not generalisable across different topics</strong></p>
 </section>
 <section id="dataset-methodology" class="level2">
 <h2 class="anchored" data-anchor-id="dataset-methodology">Dataset &amp; Methodology</h2>
-<p>The dataset consisted of 10,202 news headlines labelled as real (1) or fake (0). Initial exploration revealed a significant class imbalance of 20.5:1, with fake news being the majority class. To address this, I implemented:</p>
-<ul>
-<li><p>Text preprocessing and normalisation techniques</p></li>
-<li><p>TF-IDF vectorisation for feature extraction</p></li>
-<li><p>Train/validation/test splits (60%/20%/20%)</p></li>
-<li><p>Two oversampling techniques (Random Oversampling and SMOTE)</p></li>
-<li><p>Three classification algorithms (Decision Tree, Random Forest, Logistic Regression)</p></li>
-<li><p>Hyperparameter tuning with GridSearchCV</p></li>
-</ul>
+<p><strong>The dataset consisted of 10,202 news headlines labelled as real (1) or fake (0). Initial exploration revealed a significant class imbalance of 20.5:1, with fake news being the majority class. To address this, I implemented:</strong></p>
+<p><strong>- Text preprocessing and normalisation techniques</strong></p>
+<p><strong>- TF-IDF vectorisation for feature extraction</strong></p>
+<p><strong>- Train/validation/test splits (60%/20%/20%)</strong></p>
+<p><strong>- Two oversampling techniques (Random Oversampling and SMOTE)</strong></p>
+<p><strong>- Three classification algorithms (Decision Tree, Random Forest, Logistic Regression)</strong></p>
+<p><strong>- Hyperparameter tuning with GridSearchCV</strong></p>
 </section>
 <section id="conclusion" class="level2">
 <h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
-<ul>
-<li><p>Key Findings Random Forest with SMOTE achieved the highest performance (F1 score: 0.6803, accuracy: 0.9770).</p></li>
-<li><p>Text length analysis revealed real news headlines had more consistent lengths than fake ones.</p></li>
-<li><p>Feature importance analysis showed that terms like “google,” “covid,” and “coronavirus” were strong predictors.</p></li>
-<li><p>Despite oversampling, the model still showed bias toward the majority class.</p></li>
-<li><p>The model had high precision (0.9070) but lower recall (0.4105) for real news.</p></li>
-</ul>
+<p><strong>- Key Findings</strong> <strong>Random Forest with SMOTE achieved the highest performance (F1 score: 0.6803, accuracy: 0.9770).</strong></p>
+<p><strong>- Text length analysis revealed real news headlines had more consistent lengths than fake ones.</strong></p>
+<p><strong>- Feature importance analysis showed that terms like “google,” “covid,” and “coronavirus” were strong predictors.</strong></p>
+<p><strong>- Despite oversampling, the model still showed bias toward the majority class.</strong></p>
+<p><strong>- The model had high precision (0.9070) but lower recall (0.4105) for real news.</strong></p>
 </section>
 <section id="technologies-used" class="level2">
 <h2 class="anchored" data-anchor-id="technologies-used">Technologies Used</h2>
-<ul>
-<li><p>Python (scikit-learn, pandas, numpy, matplotlib)</p></li>
-<li><p>Natural Language Processing techniques</p></li>
-<li><p>TF-IDF vectorisation</p></li>
-<li><p>Oversampling techniques (SMOTE)</p></li>
-<li><p>Machine learning algorithms (Decision Tree, Random Forest, Logistic Regression)</p></li>
-<li><p>Cross-validation and hyperparameter tuning</p></li>
-</ul>
-<p>Download the <a href="..\portfolio/ML-reflective-report.pdf">full report</a></p>
+<p><strong>- Python (scikit-learn, pandas, numpy, matplotlib)</strong></p>
+<p><strong>- Natural Language Processing techniques</strong></p>
+<p><strong>- TF-IDF vectorisation</strong></p>
+<p><strong>- Oversampling techniques (SMOTE)</strong></p>
+<p><strong>- Machine learning algorithms (Decision Tree, Random Forest, Logistic Regression)</strong></p>
+<p><strong>- Cross-validation and hyperparameter tuning</strong></p>
+<p><strong>Download the <a href="..\portfolio/ML-reflective-report.pdf">full report</a></strong></p>
 
 
 </section>

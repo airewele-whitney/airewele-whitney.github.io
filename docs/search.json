@@ -109,28 +109,28 @@
     "href": "portfolio/ml-reflection.html#the-challenge",
     "title": "Machine Learning Reflection",
     "section": "The Challenge",
-    "text": "The Challenge\nThe COVID-19 pandemic was accompanied by what health officials called an “infodemic” – a flood of both accurate and inaccurate information that made it difficult for people to find reliable guidance. Fake news provides comfort during uncertainty but can lead to dangerous behaviours like mask refusal and vaccine hesitancy.\nWhile human fact-checking exists through websites like PolitiFact and Snopes, these methods:\n\nRequire human expertise to identify fake articles\nCannot scale to the volume of content being produced\nAre not generalisable across different topics"
+    "text": "The Challenge\nThe COVID-19 pandemic was accompanied by what health officials called an “infodemic” – a flood of both accurate and inaccurate information that made it difficult for people to find reliable guidance. Fake news provides comfort during uncertainty but can lead to dangerous behaviours like mask refusal and vaccine hesitancy.\nWhile human fact-checking exists through websites like PolitiFact and Snopes, these methods:\n- Require human expertise to identify fake articles\n- Cannot scale to the volume of content being produced\n- Are not generalisable across different topics"
   },
   {
     "objectID": "portfolio/ml-reflection.html#dataset-methodology",
     "href": "portfolio/ml-reflection.html#dataset-methodology",
     "title": "Machine Learning Reflection",
     "section": "Dataset & Methodology",
-    "text": "Dataset & Methodology\nThe dataset consisted of 10,202 news headlines labelled as real (1) or fake (0). Initial exploration revealed a significant class imbalance of 20.5:1, with fake news being the majority class. To address this, I implemented:\n\nText preprocessing and normalisation techniques\nTF-IDF vectorisation for feature extraction\nTrain/validation/test splits (60%/20%/20%)\nTwo oversampling techniques (Random Oversampling and SMOTE)\nThree classification algorithms (Decision Tree, Random Forest, Logistic Regression)\nHyperparameter tuning with GridSearchCV"
+    "text": "Dataset & Methodology\nThe dataset consisted of 10,202 news headlines labelled as real (1) or fake (0). Initial exploration revealed a significant class imbalance of 20.5:1, with fake news being the majority class. To address this, I implemented:\n- Text preprocessing and normalisation techniques\n- TF-IDF vectorisation for feature extraction\n- Train/validation/test splits (60%/20%/20%)\n- Two oversampling techniques (Random Oversampling and SMOTE)\n- Three classification algorithms (Decision Tree, Random Forest, Logistic Regression)\n- Hyperparameter tuning with GridSearchCV"
   },
   {
     "objectID": "portfolio/ml-reflection.html#conclusion",
     "href": "portfolio/ml-reflection.html#conclusion",
     "title": "Machine Learning Reflection",
     "section": "Conclusion",
-    "text": "Conclusion\n\nKey Findings Random Forest with SMOTE achieved the highest performance (F1 score: 0.6803, accuracy: 0.9770).\nText length analysis revealed real news headlines had more consistent lengths than fake ones.\nFeature importance analysis showed that terms like “google,” “covid,” and “coronavirus” were strong predictors.\nDespite oversampling, the model still showed bias toward the majority class.\nThe model had high precision (0.9070) but lower recall (0.4105) for real news."
+    "text": "Conclusion\n- Key Findings Random Forest with SMOTE achieved the highest performance (F1 score: 0.6803, accuracy: 0.9770).\n- Text length analysis revealed real news headlines had more consistent lengths than fake ones.\n- Feature importance analysis showed that terms like “google,” “covid,” and “coronavirus” were strong predictors.\n- Despite oversampling, the model still showed bias toward the majority class.\n- The model had high precision (0.9070) but lower recall (0.4105) for real news."
   },
   {
     "objectID": "portfolio/ml-reflection.html#technologies-used",
     "href": "portfolio/ml-reflection.html#technologies-used",
     "title": "Machine Learning Reflection",
     "section": "Technologies Used",
-    "text": "Technologies Used\n\nPython (scikit-learn, pandas, numpy, matplotlib)\nNatural Language Processing techniques\nTF-IDF vectorisation\nOversampling techniques (SMOTE)\nMachine learning algorithms (Decision Tree, Random Forest, Logistic Regression)\nCross-validation and hyperparameter tuning\n\nDownload the full report"
+    "text": "Technologies Used\n- Python (scikit-learn, pandas, numpy, matplotlib)\n- Natural Language Processing techniques\n- TF-IDF vectorisation\n- Oversampling techniques (SMOTE)\n- Machine learning algorithms (Decision Tree, Random Forest, Logistic Regression)\n- Cross-validation and hyperparameter tuning\nDownload the full report"
   },
   {
     "objectID": "portfolio/cv.html",
@@ -361,6 +361,20 @@
     "href": "posts/marseille.html#growth-beyond-the-classroom",
     "title": "Reflecting on My Year Abroad and Entering Final Year",
     "section": "Growth Beyond the Classroom",
-    "text": "Growth Beyond the Classroom\nMy year abroad wasn’t just about academics — it was about personal growth too.\n\nI became more confident stepping outside of my comfort zone.\nI strengthened my independence, managing life in a completely new environment.\nI broadened my cultural awareness by meeting people from all over the world.\n\nSmall everyday experiences, like catching the early metro to my 8:30 am classes or trying new activities around Marseille, added up to a big transformation.\n## Looking Ahead: Final Year and Beyond\nAs I now enter my final year at DCU, I feel a real sense of excitement and motivation. My exchange experience gave me fresh perspective, a stronger work ethic, and a clearer idea of how much I’m capable of. I look forward to building on everything I’ve learned, making the most of my last year in university, and preparing for all the new opportunities to come after graduation."
+    "text": "Growth Beyond the Classroom\nMy year abroad wasn’t just about academics — it was about personal growth too.\n- I became more confident stepping outside of my comfort zone.\n- I strengthened my independence, managing life in a completely new environment.\n- I broadened my cultural awareness by meeting people from all over the world.\nSmall everyday experiences, like catching the early metro to my 8:30 am classes or trying new activities around Marseille, added up to a big transformation."
+  },
+  {
+    "objectID": "posts/marseille.html#growth",
+    "href": "posts/marseille.html#growth",
+    "title": "Reflecting on My Year Abroad and Entering Final Year",
+    "section": "Growth",
+    "text": "Growth\nAs I now enter my final year at DCU, I feel a real sense of excitement and motivation. My exchange experience gave me fresh perspective, a stronger work ethic, and a clearer idea of how much I’m capable of. I look forward to building on everything I’ve learned, making the most of my last year in university, and preparing for all the new opportunities to come after graduation."
+  },
+  {
+    "objectID": "posts/marseille.html#looking-ahead-final-year-and-beyond",
+    "href": "posts/marseille.html#looking-ahead-final-year-and-beyond",
+    "title": "Reflecting on My Year Abroad and Entering Final Year",
+    "section": "Looking Ahead: Final Year and Beyond",
+    "text": "Looking Ahead: Final Year and Beyond\nAs I now enter my final year at DCU, I feel a real sense of excitement and motivation. My exchange experience gave me fresh perspective, a stronger work ethic, and a clearer idea of how much I’m capable of. I look forward to building on everything I’ve learned, making the most of my last year in university, and preparing for all the new opportunities to come after graduation."
   }
 ]
