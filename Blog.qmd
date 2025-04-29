@@ -6,20 +6,7 @@ listing:
     type: default
     fields: [title, image]
 page-layout: full
-classes: blog-page
-format:
-  html:
-    include-in-header:
-      text: |
-        <style>
-        .blog-page .quarto-listing-default .quarto-post img,
-        .blog-page .thumbnail-image,
-        .blog-page .card-img {
-          border-radius: 50% !important;
-          aspect-ratio: 1/1;
-          object-fit: cover !important;
-          overflow: hidden;
-        }
-        </style>
+
+    
 ---
 **Here you will find some of my own personal blog posts!**

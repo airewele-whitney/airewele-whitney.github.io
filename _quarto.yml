@@ -4,6 +4,7 @@ project:
 
 website:
   title: "WHITNEY AIREWELE"
+  favicon: images/android-chrome-192x192.png
   navbar:
     logo: images/logo.png
     right:
