@@ -51,6 +51,6 @@ image: "/images/bord-bia.jpg"
 ## Conclusion
 **The strategic interventions identified will strengthen Bord Bia's global position, drive long-term growth, and reinforce Ireland's reputation as a leader in sustainable food production.**
 
-**Download the [full report](/projects/business-strategy.pdf)**
+**Download the [full report](/portfolio/business-strategy.pdf)**
 
 **Download the [full presentation](/portfolio/INTB7-Business-Strategy-Presentation.pdf)**
