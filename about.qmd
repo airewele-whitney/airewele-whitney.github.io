@@ -28,5 +28,5 @@ title: "About Me"
 ::: {.about-section}
 ## 🌍 Hobbies & Personal Life
 
-**Outside of work and studies, I enjoy volunteering and have taken part in clean-up initiatives like the Calanques project in France. I also love outdoor adventures, creative projects, and anything that lets me learn something new. Whether I’m embracing my artistic side through art and design, going on walks, doing yoga, or learning a new tool, I’m always looking for ways to grow and keep my wellness levels up. Cooking and learning new recipes is a newfound hobby of mine. I truly love recreating dishes for others to taste, which is something I realised when living alone in France.**
+**Outside of work and studies, I enjoy outdoor adventures, taking on creative projects, and anything that lets me learn something new. Whether I’m embracing my artistic side through art and design, going on walks, doing yoga, or learning a new tool, I’m always looking for ways to grow and keep my wellness levels up. Cooking and learning new recipes is a newfound hobby of mine. I truly love recreating dishes for others to taste, which is something I realised when living alone in France.**
 :::
