@@ -35,11 +35,11 @@ image: "/images/bord-bia.jpg"
 ## Strategic Recommendations
 **Our recommendations followed a four-phase implementation approach:**
 
-1. #### Establishment: 
+1. ####Establishment:
 
 **Partnerships with UAE certification bodies (ESMA, HIA)**
 
-2. #### Market Penetration:  
+2. ####Market Penetration:
 
 **Premium pricing strategy focusing on sustainability and quality**
 
