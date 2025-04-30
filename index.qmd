@@ -13,7 +13,7 @@ about:
       target: _blank
     - text: My CV
       icon: download
-      href: "/CV_WhitneyAirewele.pdf" 
+      href: /portfolio/CV_WhitneyAirewele.pdf
       target: _blank
     - text: Github
       icon: github
