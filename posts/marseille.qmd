@@ -17,7 +17,7 @@ image: "/images/kedge.jpg"
 
 **One of the biggest highlights of my year abroad was the opportunity to travel.**
 
-![The Calanque, Marseille](/images/calanque.jpg)
+![The Calanque, Marseille](/videos/calanque.MOV)
 
  **Being based in the south of France made it easy to visit nearby towns, coastal villages, and even other countries. I had the chance to explore beautiful places like Morocco and Barcelona — experiences that truly broadened my perspective and allowed me to pursue one of my favourite hobbies: travelling.**
 
