@@ -29,7 +29,7 @@ image: "/images/AI.jpg"
 
 ## Case Study: Amazon’s Biased AI
 #### Issue: 
-**Tool trained on male-dominated data penalised female candidates (e.g., résumés with “women’s”).**
+**Tool trained on male-dominated data penalised female candidates (e.g., resumes with “women’s”).**
 
 #### Root Cause: 
 **Biased historical data and homogenous development team.**
