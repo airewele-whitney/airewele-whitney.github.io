@@ -21,7 +21,7 @@ image: "/images/kedge.jpg"
 
  **Being based in the south of France made it easy to visit nearby towns, coastal villages, and even other countries. I had the chance to explore beautiful places like Morocco and Barcelona — experiences that truly broadened my perspective and allowed me to pursue one of my favourite hobbies: travelling.**
 
- ![Camel Riding ](/images/morocco.jpg.)
+ ![Camel Riding ](/images/morocco.jpg)
 **During my trip to Morocco, I was able to explore a culture completely different from my own. From the vibrant markets to the rich traditions and hospitality, it was an unforgettable experience that opened my eyes to new ways of life and deepened my appreciation for cultural diversity.**
 
 ![Sagrada Família](/images/barcelona.jpg)
