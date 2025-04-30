@@ -284,7 +284,7 @@
     "href": "portfolio/responsible-mgt.html#case-study-amazons-biased-ai",
     "title": "AI Ethics in Recruitment",
     "section": "Case Study: Amazon’s Biased AI",
-    "text": "Case Study: Amazon’s Biased AI\n\nIssue:\nTool trained on male-dominated data penalised female candidates (e.g., résumés with “women’s”).\n\n\nRoot Cause:\nBiased historical data and homogenous development team.\n\n\nOutcome:\nProject scrapped (2018), sparking global debate on ethical AI."
+    "text": "Case Study: Amazon’s Biased AI\n\nIssue:\nTool trained on male-dominated data penalised female candidates (e.g., resumes with “women’s”).\n\n\nRoot Cause:\nBiased historical data and homogenous development team.\n\n\nOutcome:\nProject scrapped (2018), sparking global debate on ethical AI."
   },
   {
     "objectID": "portfolio/responsible-mgt.html#proposed-solutions",
